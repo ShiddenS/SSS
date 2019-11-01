@@ -1,0 +1,49 @@
+.ty-text-links-wrapper {
+	background: #ccc;
+
+	.ty-text-links {
+
+		&__item {
+			margin-right: 100px;
+		}
+
+	}
+
+// 	& li {
+
+// 		&:last-child { 
+// 			background: black;
+
+// 			> div > .ty-text-links__item {
+// 					float: right;
+// 					display: block;
+// 					position: relative;
+// }
+// }
+
+//	}
+
+//}
+    
+
+
+
+
+//.ty-text-links-wrapper {
+
+//	& li {
+
+//		&:last-child {
+//			background: black;
+
+//			> div > .ty-menu__item-link {
+//					float: right;
+//					display: block;
+//					position: relative;
+
+    
+//
+//		}
+//
+//
+//
