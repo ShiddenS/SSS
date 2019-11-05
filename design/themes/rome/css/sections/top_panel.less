@@ -1,0 +1,65 @@
+.tygh-top-panel {
+    border-bottom: 2px solid darken(@top_panel_bg, 5%);
+
+    a {
+        font-size: 11px;
+        text-transform: uppercase;
+    }
+
+    .ty-text-links__item {
+        margin-right: 30px;
+    }
+
+    .ty-currencies__item {
+        padding: 10px 13px;
+    }
+
+    .ty-account-info {
+        padding-top: 10px;
+    }
+
+    .ty-dropdown-box__content {
+        .ty-account-info__orders {
+            padding: 8px 14px 2px;
+            margin: 0;
+        }
+    }
+
+    .top-currencies .ty-dropdown-box__content {
+        right: auto;
+        left: 0;
+    }
+
+    .ty-select-block__a,
+    .ty-account-info__title,
+    .ty-icon-down-micro {
+        color: @top_panel_links;
+    }
+
+    .ty-account-info__name,
+    .ty-account-info__orders-txt {
+        color: @top_panel_text;
+    }
+
+    .ty-btn__primary {
+        color: @sdt-rome-white;
+    }
+
+    .ty-select-block__a {
+        padding: 9px 12px 8px;
+
+        &.open {
+            color: @sdt-rome-white;
+        }
+    }
+}
+
+@media @sdt-rome-phone-tablet {
+    .ty-text-links_show_inline .ty-text-links__item {
+        padding: 7px 0;
+    }
+
+    .ty-text-links-btn__arrow {
+        top: 0;
+    }
+}

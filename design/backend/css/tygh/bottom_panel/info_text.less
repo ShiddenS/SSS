@@ -1,0 +1,76 @@
+.bp-info {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    color: var(--bp-text-color-gray);
+    font-size: 13px;
+    font-family: var(--bp-font);
+
+    @media (min-width: 768px) {
+        display: none;
+    }
+
+    @media (min-width: 1024px) {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+    }
+
+    &--animation {
+        color: transparent;
+        background: -webkit-gradient(linear, left top, right top,
+            from(var(--bp-text-color-gray)),
+                color-stop(60%, var(--bp-text-color-gray)),
+                color-stop(80%, var(--bp-text-color-inverse)),
+            to(var(--bp-text-color-gray)));
+        background: -webkit-linear-gradient(left,
+            var(--bp-text-color-gray) 0%,
+            var(--bp-text-color-gray) 60%,
+            var(--bp-text-color-inverse) 80%,
+            var(--bp-text-color-gray) 100%);
+        background: -o-linear-gradient(left,
+            var(--bp-text-color-gray) 0%,
+            var(--bp-text-color-gray) 60%,
+            var(--bp-text-color-inverse) 80%,
+            var(--bp-text-color-gray) 100%);
+        background: linear-gradient(90deg,
+            var(--bp-text-color-gray) 0%,
+            var(--bp-text-color-gray) 60%,
+            var(--bp-text-color-inverse) 80%,
+            var(--bp-text-color-gray) 100%);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-animation: 10s bp-info--animation infinite linear;
+        animation: 10s bp-info--animation infinite linear;
+        -webkit-transition: all 5s;
+        -o-transition: all 5s;
+        transition: all 5s;
+    }
+
+}
+
+@-webkit-keyframes bp-info--animation {
+    0% {
+        background-position: 0;
+    }
+
+    100% {
+        background-position: 300px;
+    }
+}
+
+@keyframes bp-info--animation {
+    0% {
+        background-position: 0;
+    }
+
+    100% {
+        background-position: 300px;
+    }
+}

@@ -1,0 +1,38 @@
+.ty-mainbox-simple-container {
+    .ty-mainbox-simple-body {
+        position: relative;
+    }
+
+    .ty-owl-controls {
+        position: static;
+        
+        .owl-buttons .owl-prev {
+            background: url(@sdt-rome-owl-prev) no-repeat;
+            left: 0;
+        }
+
+        .owl-buttons .owl-next {
+            background: url(@sdt-rome-owl-next) no-repeat 40px 0;
+            right: 0;
+        }
+
+        .owl-buttons div {
+            margin: 0;
+            padding: 0;
+            width: 50px;
+            color: lighten(@links, 30%);
+            top: 50%;
+            margin-top: -11px;
+            position: absolute;
+            z-index: 50;
+
+            & > i {
+                display: none;
+            }
+        }
+    }
+
+    .owl-theme .owl-controls-outside .owl-buttons div {
+        background-size: 10px;
+    }
+}

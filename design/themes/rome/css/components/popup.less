@@ -1,0 +1,34 @@
+div.ui-dialog .ui-dialog-title,
+.cm-notification-close.close:hover,
+.ui-widget-header .ui-dialog-titlebar-close.ui-state-hover span::before {
+    color: @font;
+}
+
+.ui-dialog.ui-widget {
+    border-top: 2px solid @decorative;
+}
+
+.ty-product-notification__buttons,
+.notification-content-extended h1 {
+    background: @base;
+}
+
+.ui-widget-header .ui-icon-closethick,
+.cm-notification-close.close {
+    color: lighten(@font, 30%);
+}
+
+.cm-notification-close.close {
+    padding: 4px 0;
+}
+
+.cm-notification-content {
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+
+    &-extended {
+        border-top: 2px solid @decorative;
+        .box-shadow(0 0 5px rgba(0,0,0,0.5));
+    }
+}

@@ -1,0 +1,135 @@
+.ty-btn {
+    margin-bottom: 5px;
+
+    &__big {
+        @media screen and @sdt-rome-phone {
+            padding: 6px 8px;
+        }
+    }
+}
+
+.ty-btn__primary {
+    color: @sdt-rome-white;
+
+    &:hover {
+        background: @primary_button;
+        text-decoration: underline;
+    }
+
+    @media @sdt-rome-phone {
+        padding: 6px 18px;
+    }
+}
+
+.ty-btn__secondary {
+    background: @sdt-rome-white;
+    color: @secondary_button;
+    border: 1px solid @secondary_button;
+
+    &:hover {
+        background: @sdt-rome-white;
+        color: @secondary_button;
+        text-decoration: underline;
+    }
+
+    i {
+        display: inline-block;
+    }
+}
+
+.ty-btn__tertiary {
+    background: @sdt-rome-white;
+    color: @tertiary_button;
+    border: 1px solid lighten(@links, 10%);
+
+    &:hover {
+        color: @tertiary_button;
+        background: @sdt-rome-white;
+        text-decoration: underline;
+    }
+}
+
+.ty-btn__text:hover {
+    text-decoration: underline;
+}
+
+.ty-qty-out-of-stock {
+    font-family: @buttons_font;
+    font-weight: 400;
+    padding: 6px 10px;
+}
+
+.ui-widget button {
+    font-family: @buttons_font;
+}
+
+.ty-mainbox-container .buttons-container {
+    padding: 17px 0;
+}
+
+.owl-theme .owl-controls .owl-buttons div {
+    background: transparent;
+    color: @font;
+}
+
+.container-fluid .ty-search-block__input {
+    height: 40px;
+    border: 0;
+    background: darken(@header_bg, 7%);
+    border-radius: 20px;
+    padding: 10px 55px 10px 15px;
+    color: lighten(@links, 30%);
+
+    &:focus,
+    &:focus + .ty-search-magnifier {
+        color: @links;
+    }
+}
+
+.ty-search-magnifier {
+    width: 40px;
+    height: 40px;
+    padding-left: 12px;
+    top: 0;
+    border-left: 2px solid white;
+}
+
+.container-fluid .sd-like-btn.ty-btn {
+    padding: 0;
+}
+
+.buttons-container-picker {
+    border: 0;
+}
+
+.ya-share2 {
+    padding: 8px 0;
+
+    ul {
+        width: 100%;
+        border-top: 1px solid darken(@base, 20%);
+        padding-top: 16px;
+    }
+}
+
+.large-size {
+    .ya-share2__container_size_m .ya-share2__icon {
+        height: 32px;
+        width: 32px;
+    }
+
+    &.ya-share2 .ya-share2__badge {
+        height: 32px;
+    }
+}
+
+.ty-social-buttons::before {
+    display: table;
+    content: '';
+    line-height: 0;
+    width: 100%;
+}
+
+.ty-section__body .buttons-container {
+    margin-left: 0;
+}

@@ -1,0 +1,1 @@
+{style src="addons/ip5_theme_addon/styles.less"}

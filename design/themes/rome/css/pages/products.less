@@ -1,0 +1,100 @@
+.ty-product-block {
+    &__button .ty-btn {
+        padding: 10px 25px;
+
+        &__text {
+            padding: 10px 0;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+
+        & + .ty-btn {
+            margin-left: 0;
+        }
+    }
+
+    &__button select {
+        margin: 10px 0;
+    }
+
+    &-title,
+    &-title a {
+        font-family: @sdt-rome-poppins-font;
+        font-size: 24px;
+        font-weight: 400;
+    }
+
+    &__wrapper .ty-discussion__rating-wrapper a {
+        color: lighten(@links, 20%);
+        font-size: 14px;
+    }
+
+    &__price-actual {
+        margin-top: 0;
+
+        .ty-price-num {
+            font-family: @buttons_font;
+        }
+    }
+
+    .paypal-adaptive-vendor-name .ty-control-group__item a {
+        color: @font;
+    }
+}
+
+.ty-product {
+    &-prices {
+        margin: 0;
+    }
+
+    &-switcher {
+        top: 10px;
+
+        &__a {
+            top: 0;
+        }
+
+        span {
+            color: @links;
+        }
+
+        @media (max-width: 767px) {
+            width: auto;
+            position: absolute;
+        }
+    }
+}
+
+.ty-value-changer,
+.touch .ty-value-changer,
+.touch input.ty-value-changer {
+    width: 102px;
+
+    &__decrease,
+    &__increase,
+    &__input {
+        float: left;
+        height: 33px;
+    }
+
+    &__decrease,
+    &__increase {
+        background: darken(@base, 5%);
+        font-weight: 700;
+        height: 31px;
+        width: 31px;
+        color: @links;
+        font-size: 16px;
+        line-height: 31px;
+        border: 1px solid darken(@base, 15%);
+
+        .no-touch &:hover,
+        .touch &:hover {
+            background: darken(@base, 5%);
+            color: @primary_button;
+            text-decoration: none;
+        }
+    }
+}

@@ -1,0 +1,41 @@
+.banners.owl-theme .owl-controls .owl-buttons {
+    div {
+        position: absolute;
+        top: 50%;
+    }
+
+    .owl-prev,
+    .owl-next {
+        font-size: 0;
+        margin-top: -16px;
+
+        &::before {
+            display: block;
+            width: 32px;
+            height: 32px;
+            content: '';
+        }
+    }
+
+    .owl-prev {
+        left: 0;
+
+        &::before {
+            background: url(@sdt-rome-owl-prev) no-repeat 7px 0;
+        }
+    }
+
+    .owl-next {
+        right: 0;
+
+        &::before {
+            background: url(@sdt-rome-owl-next) no-repeat 7px 0;
+        }
+    }
+}
+
+@media @sdt-rome-phone-tablet {
+    .banners.owl-carousel.owl-theme {
+        padding-top: 20px;
+    }
+}

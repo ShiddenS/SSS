@@ -1,0 +1,10 @@
+{
+    "default_style": "Default",
+    "default": {
+        "Default": true,
+        "Blue": true,
+        "Green": true,
+        "Deep": true,
+        "Black": true
+    }
+}

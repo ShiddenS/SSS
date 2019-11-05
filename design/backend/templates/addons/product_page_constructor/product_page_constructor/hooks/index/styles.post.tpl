@@ -1,0 +1,1 @@
+{style src="addons/product_page_constructor/styles.less"}

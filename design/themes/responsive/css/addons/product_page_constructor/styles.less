@@ -1,0 +1,25 @@
+.constructor-wrapper .tygh-content {
+	border: none;
+	.ignore-first-grid-size > .row-fluid > [class*="span"] {
+		width: initial;
+		padding: inherit;
+		margin: inherit;
+	}
+	> .container-fluid {
+		padding: 0px;
+
+		.row-fluid div.ty-product-block__img-wrapper {
+			.ty-product-block__img-wrapper();
+		}
+		.row-fluid div.ty-product-bigpicture__right {
+			.ty-product-bigpicture__right();
+		}
+		.row-fluid div.ty-product-bigpicture__left {
+			width: 100%;
+			> div {
+				width: initial;
+				.ty-product-bigpicture__left-wrapper();
+			}
+		}
+	}
+}
