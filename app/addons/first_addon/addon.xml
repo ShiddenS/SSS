@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>first_addon</id>
+    <version>1.0</version>
+    <priority>1005555</priority>
+    <default_language>en</default_language>
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+    <dependencies/>
+</addon>
