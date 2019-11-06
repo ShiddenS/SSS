@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /release-4.10.4/addons/help_tutorial.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-09-05 09:36\n"
+
+msgctxt "Addons::name::help_tutorial"
+msgid "Video tutorials"
+msgstr "Video-Anleitungen"
+
+msgctxt "Addons::description::help_tutorial"
+msgid "Enables on-site video tutorials in the admin panel"
+msgstr "Ermöglicht Video-Anleitungen auf der Seite im Administrationsbereich"
+
+msgctxt "Languages::help_tutorial.need_help"
+msgid "Need help?"
+msgstr "Benötigen Sie Hilfe?"
+
+msgctxt "Languages::help_tutorial.videos_show"
+msgid "See all the tutorials on CS-Cart"
+msgstr "Sehen Sie alle Anleitungen auf CS-Cart"
+
+msgctxt "Languages::help_tutorial.need_help_button"
+msgid "See how it works"
+msgstr "Sehen Sie, wie es funktioniert"
+

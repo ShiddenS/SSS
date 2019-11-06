@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /release-4.10.4/addons/image_zoom.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-09-05 09:39\n"
+
+msgctxt "Addons::name::image_zoom"
+msgid "Image zoom"
+msgstr "Zoom immagine"
+
+msgctxt "Addons::description::image_zoom"
+msgid "Shows zoomed image on product image hover"
+msgstr "Mostra immagine ingrandita posizionandosi sopra l'immagine prodotto"
+
+msgctxt "SettingsSections::image_zoom::general"
+msgid "General"
+msgstr "Generale"
+
+msgctxt "SettingsOptions::image_zoom::cz_animation_time"
+msgid "Animation time"
+msgstr "Tempo di animazione"
+
+msgctxt "SettingsOptions::image_zoom::cz_zoom_position"
+msgid "Zoom position"
+msgstr "Posizione dello zoom"
+
+msgctxt "SettingsTooltips::image_zoom::cz_animation_time"
+msgid "Duration of the animation effects in milliseconds."
+msgstr "Durata degli effetti di animazione in millisecondi."
+
+msgctxt "SettingsTooltips::image_zoom::cz_zoom_position"
+msgid "Specifies position of zoom window. The position is relative to image as shown by the following key (blue squares represent zoom window). <br /><br /><img src=\"design/backend/media/images/addons/image_zoom/zoom-positions.png\" />"
+msgstr ""
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::0"
+msgid "Zoom position №0"
+msgstr "Posizione zoom n. 0"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::1"
+msgid "Zoom position №1"
+msgstr "Posizione zoom n. 1"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::2"
+msgid "Zoom position №2"
+msgstr "Posizione zoom n. 2"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::3"
+msgid "Zoom position №3"
+msgstr "Posizione zoom n. 3"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::4"
+msgid "Zoom position №4"
+msgstr "Posizione zoom n. 4"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::5"
+msgid "Zoom position №5"
+msgstr "Posizione zoom n. 5"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::6"
+msgid "Zoom position №6"
+msgstr "Posizione zoom n. 6"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::7"
+msgid "Zoom position №7"
+msgstr "Posizione zoom n. 7"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::8"
+msgid "Zoom position №8"
+msgstr "Posizione zoom n. 8"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::9"
+msgid "Zoom position №9"
+msgstr "Posizione zoom n. 9"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::10"
+msgid "Zoom position №10"
+msgstr "Posizione zoom n. 10"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::11"
+msgid "Zoom position №11"
+msgstr "Posizione zoom n. 11"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::12"
+msgid "Zoom position №12"
+msgstr "Posizione zoom n. 12"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::13"
+msgid "Zoom position №13"
+msgstr "Posizione zoom n. 13"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::14"
+msgid "Zoom position №14"
+msgstr "Posizione zoom n. 14"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::15"
+msgid "Zoom position №15"
+msgstr "Posizione zoom n. 15"
+
+msgctxt "Languages::image_zoom.rework_update_notification.title"
+msgid "Image Zoom add-on reworked"
+msgstr ""
+
+msgctxt "Languages::image_zoom.rework_update_notification.message"
+msgid "<p>We reworked the <b>Image zoom</b> add-on, because it used a third-party solution incompatible with modern versions of jQuery. As a result of the rework, some settings of the add-on were removed.</p><p>Please check how the image zoom looks on the product pages now. If you'd like to make any changes to the looks, adjust the settings of the <b>Image zoom</b> add-on.</p><p><a href=\"[image_zoom_settings]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Check Image Zoom settings</a></p>"
+msgstr ""
+

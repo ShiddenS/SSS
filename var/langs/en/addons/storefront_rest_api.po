@@ -1,0 +1,21 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::storefront_rest_api"
+msgid "Storefront REST API"
+msgstr "Storefront REST API"
+
+msgctxt "Addons::description::storefront_rest_api"
+msgid "Provides REST API entities"
+msgstr "Provides REST API entities"
+
+msgctxt "SettingsSections::storefront_rest_api::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::storefront_rest_api::access_key"
+msgid "Access key"
+msgstr "Access key"

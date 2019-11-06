@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-ru\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-ru\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.10.4/addons/rus_alfabank.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-09-05 09:33\n"
+
+msgctxt "Addons::name::rus_alfabank"
+msgid "Russian localization — Alfa bank [Deprecated]"
+msgstr "Альфа-Банк [Не рекомендуется]"
+
+msgctxt "Addons::description::rus_alfabank"
+msgid "This add-on is deprecated: you won't be able to receive payments with it. We recommend you to use the <a href=\"https://pay.alfabank.ru/ecommerce/plugins/cs-cart_4.6.1_alfabank.zip\" target=\"_blank\">add-on provided by AlfaBank itself</a>."
+msgstr "Этот модуль устарел, и с его помощью нельзя принимать оплату. Мы рекомендуем <a href=\"https://pay.alfabank.ru/ecommerce/plugins/cs-cart_4.6.1_alfabank.zip\" target=\"_blank\">модуль от самого Альфа-Банка</a>."
+
+msgctxt "Languages::addons.rus_alfabank.login"
+msgid "Login API"
+msgstr "API логин"
+
+msgctxt "Languages::addons.rus_alfabank.password"
+msgid "Password"
+msgstr "Пароль"
+
+msgctxt "Languages::addons.rus_alfabank.logging"
+msgid "Write log"
+msgstr "Писать логи"
+
+msgctxt "Languages::addons.rus_alfabank.wrong_amount"
+msgid "The order total doesn't match the sum that was paid. Please contact the store administration about this your order."
+msgstr "Сумма заказа не совпадает с оплаченной суммой. Пожалуйста, свяжитесь с администратором магазина по поводу данного заказа."
+
+msgctxt "Languages::rus_alfabank.depreciation_warning"
+msgid "This add-on is deprecated: you won't be able to receive payments with it. We recommend you to use the <a href=\"https://pay.alfabank.ru/ecommerce/plugins/cs-cart_4.6.1_alfabank.zip\" target=\"_blank\">add-on provided by AlfaBank itself</a>."
+msgstr "Этот модуль устарел, и с его помощью нельзя принимать оплату. Мы рекомендуем <a href=\"https://pay.alfabank.ru/ecommerce/plugins/cs-cart_4.6.1_alfabank.zip\" target=\"_blank\">модуль от самого Альфа-Банка</a>."
+

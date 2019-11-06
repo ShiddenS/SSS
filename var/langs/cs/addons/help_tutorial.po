@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.10.4/addons/help_tutorial.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-09-05 09:35\n"
+
+msgctxt "Addons::name::help_tutorial"
+msgid "Video tutorials"
+msgstr "Video postupy"
+
+msgctxt "Addons::description::help_tutorial"
+msgid "Enables on-site video tutorials in the admin panel"
+msgstr "Povolí místní video návody v panelu správce"
+
+msgctxt "Languages::help_tutorial.need_help"
+msgid "Need help?"
+msgstr "Potřebujete pomoci?"
+
+msgctxt "Languages::help_tutorial.videos_show"
+msgid "See all the tutorials on CS-Cart"
+msgstr "Zobrazit všechny návody na CS-Cart"
+
+msgctxt "Languages::help_tutorial.need_help_button"
+msgid "See how it works"
+msgstr ""
+

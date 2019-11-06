@@ -1,0 +1,33 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+
+msgctxt "Addons::name::rus_alfabank"
+msgid "Russian localization — Alfa bank [Deprecated]"
+msgstr "Russian localization — Alfa bank [Deprecated]"
+
+msgctxt "Addons::description::rus_alfabank"
+msgid "This add-on is deprecated: you won't be able to receive payments with it. We recommend you to use the <a href=\"https://pay.alfabank.ru/ecommerce/plugins/cs-cart_4.6.1_alfabank.zip\" target=\"_blank\">add-on provided by AlfaBank itself</a>."
+msgstr "This add-on is deprecated: you won't be able to receive payments with it. We recommend you to use the <a href=\"https://pay.alfabank.ru/ecommerce/plugins/cs-cart_4.6.1_alfabank.zip\" target=\"_blank\">add-on provided by AlfaBank itself</a>."
+
+msgctxt "Languages::addons.rus_alfabank.login"
+msgid "Login API"
+msgstr "Login API"
+
+msgctxt "Languages::addons.rus_alfabank.password"
+msgid "Password"
+msgstr "Password"
+
+msgctxt "Languages::addons.rus_alfabank.logging"
+msgid "Write log"
+msgstr "Write log"
+
+msgctxt "Languages::addons.rus_alfabank.wrong_amount"
+msgid "The order total doesn't match the sum that was paid. Please contact the store administration about this your order."
+msgstr "The order total doesn't match the sum that was paid. Please contact the store administration about this your order."
+
+msgctxt "Languages::rus_alfabank.depreciation_warning"
+msgid "This add-on is deprecated: you won't be able to receive payments with it. We recommend you to use the <a href=\"https://pay.alfabank.ru/ecommerce/plugins/cs-cart_4.6.1_alfabank.zip\" target=\"_blank\">add-on provided by AlfaBank itself</a>."
+msgstr "This add-on is deprecated: you won't be able to receive payments with it. We recommend you to use the <a href=\"https://pay.alfabank.ru/ecommerce/plugins/cs-cart_4.6.1_alfabank.zip\" target=\"_blank\">add-on provided by AlfaBank itself</a>."

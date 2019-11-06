@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.10.4/addons/stripe_sdk.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-09-05 09:34\n"
+
+msgctxt "Addons::name::stripe_sdk"
+msgid "Stripe SDK"
+msgstr ""
+
+msgctxt "Addons::description::stripe_sdk"
+msgid "PHP SDK for Stripe-based payment methods."
+msgstr ""
+

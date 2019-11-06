@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.10.4/addons/storefront_rest_api.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-09-09 07:10\n"
+
+msgctxt "Addons::name::storefront_rest_api"
+msgid "Storefront REST API"
+msgstr "REST API для витрины"
+
+msgctxt "Addons::description::storefront_rest_api"
+msgid "Provides REST API entities"
+msgstr "Добавляет сущности REST API"
+
+msgctxt "SettingsSections::storefront_rest_api::general"
+msgid "General"
+msgstr "Общие"
+
+msgctxt "SettingsOptions::storefront_rest_api::access_key"
+msgid "Access key"
+msgstr "Ключ доступа"
+

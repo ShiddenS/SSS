@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: pl\n"
+"X-Crowdin-File: /release-4.10.4/addons/product_option_combinations.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-09-05 09:44\n"
+
+msgctxt "Addons::name::product_option_combinations"
+msgid "Product option combinations [Deprecated]"
+msgstr "Kombinacje opcji produktów [Deprecated]"
+
+msgctxt "Addons::description::product_option_combinations"
+msgid "Create multiple variants of the same product based on one or multiple options. Note that product variations are a better choice than option combinations in most cases. The only exception is when you have third-party add-ons that work only with option combinations."
+msgstr "Twórz wiele wariantów tego samego produktu na podstawie jednej lub wielu opcji. Należy zauważyć, że warianty produktów są w większości przypadków lepszym wyborem niż kombinacje opcji. Jedynym wyjątkiem jest sytuacja, w której masz dodatki innych firm, które działają tylko z kombinacjami opcji."
+
+msgctxt "Languages::product_option_combinations.upgrade_notification.convert_title"
+msgid "Convert option combinations to product variations"
+msgstr "Konwersja kombinacji opcji na warianty produktu"
+
+msgctxt "Languages::product_option_combinations.upgrade_notification.convert_message"
+msgid "<p>Product variations are better than option combinations because they can do much more. With product variations out of beta, option combinations are deprecated. For that reason, we added a way to quickly and automatically turn option combinations to product variations.</p><p><b>This action is required</b> if you use the <b>Common Products for Vendors</b> add-on in Multi-Vendor Plus. For technical reasons, that add-on no longer supports option combinations.</p><p><a href=\"[convert_url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Convert option combinations</a> <a href=\"https://docs.cs-cart.com/4.10.x/user_guide/manage_products/products/simple_versus_configurable.html\" target=\"_blank\" class=\"btn btn-large\">Why are variations better?</a></p>"
+msgstr "<p>Warianty produktu są lepsze niż kombinacje opcji, ponieważ mogą zrobić znacznie więcej. W przypadku wariantów produktów jest to już wersja produkcyjna a kombinacje opcji są przestarzałe. Z tego powodu dodaliśmy sposób szybkiego i automatycznego przełączania kombinacji opcji na warianty produktu.</p><p><b>Ta czynność jest wymagana </b>, jeśli używasz dodatku<b>Wspólne produkty dla sprzedawców</b>w Multi-Vendor Plus. Z przyczyn technicznych ten dodatek nie obsługuje już kombinacji opcji.</p><p><a href=\"[convert_url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Konwertuj kombinacje opcji</a><a href=\"https://docs.cs-cart.com/4.10.x/user_guide/manage_products/products/simple_versus_configurable.html\" target=\"_blank\" class=\"btn btn-large\"> Dlaczego warianty produktów są lepsze?</a></p>"
+

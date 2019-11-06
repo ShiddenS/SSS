@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.10.4/addons/mobile_app.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-09-05 09:37\n"
+
+msgctxt "Addons::name::mobile_app"
+msgid "Mobile application"
+msgstr "Εφαρμογή για κινητά"
+
+msgctxt "Addons::description::mobile_app"
+msgid "Mobile application"
+msgstr "Εφαρμογή για κινητά"
+
+msgctxt "Languages::app_params"
+msgid "Application"
+msgstr "Εφαρμογή"
+
+msgctxt "Languages::mobile_app.section.category"
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+msgctxt "Languages::mobile_app.section.drawer"
+msgid "Drawer (sidebar menu)"
+msgstr "Συρταρωτο (πλαϊνο menu)"
+
+msgctxt "Languages::mobile_app.section.navbar"
+msgid "Navigation bar"
+msgstr "Μπάρα πλοήγησης"
+
+msgctxt "Languages::mobile_app.section.product_screen"
+msgid "Product screen"
+msgstr "Οθόνη Προϊόντος"
+
+msgctxt "Languages::mobile_app.section.main"
+msgid "Main screen"
+msgstr "Κύρια οθόνη"
+
+msgctxt "Languages::mobile_app.settings.access_key"
+msgid "Access key:"
+msgstr "Κλειδί πρόσβασης:"
+
+msgctxt "Languages::mobile_app.appname"
+msgid "App Name"
+msgstr "Όνομα εφαρμογής"
+
+msgctxt "Languages::mobile_app.appshortdescription"
+msgid "Short description"
+msgstr "Σύντομη Περιγραφή"
+
+msgctxt "Languages::mobile_app.appfulldescription"
+msgid "Full description"
+msgstr "Ολοκληρωμένη Περιγραφή"
+
+msgctxt "Languages::mobile_app.supportemail"
+msgid "Support email"
+msgstr "Email Υποστήριξης"
+
+msgctxt "Languages::mobile_app.privacypolicyurl"
+msgid "Privacy Policy URL"
+msgstr "URL Πολιτικής Απορρήτου"
+
+msgctxt "Languages::ttc_mobile_app.appname"
+msgid "Application name (up to 30 symbols)"
+msgstr "Όνομα εφαρμογής (έως και 30 σύμβολα)"
+
+msgctxt "Languages::ttc_mobile_app.appshortdescription"
+msgid "Application short description (up to 80 symbols)"
+msgstr "Σύντομη Περιγραφή εφαρμογής (έως 80 σύμβολα)"
+
+msgctxt "Languages::ttc_mobile_app.appfulldescription"
+msgid "Application full description (up to 4000 symbols)"
+msgstr "Ολοκληρωμένη Περιγραφή εφαρμογής (έως 4000 σύμβολα)"
+
+msgctxt "Languages::ttc_mobile_app.supportemail"
+msgid "Will be displayed in 'about app' section"
+msgstr "Θα εμφανιστεί στον τομέα 'about app'"
+
+msgctxt "Languages::ttc_mobile_app.privacypolicyurl"
+msgid "URL of the Privacy Policy page of your store"
+msgstr "URL της σελίδας Πολιτικής Απορρήτου του καταστήματος σας"
+
+msgctxt "Languages::mobile_app.pushnotifications"
+msgid "Push notifications"
+msgstr "Ειδοποιήσεις push"
+
+msgctxt "Languages::ttc_mobile_app.pushnotifications"
+msgid "Push notifications"
+msgstr "Ειδοποιήσεις push"
+
+msgctxt "Languages::bundleid"
+msgid "Bundle Id"
+msgstr "Bundle Id"
+
+msgctxt "Languages::apikey"
+msgid "API Key"
+msgstr "API Key"
+
+msgctxt "Languages::baseurl"
+msgid "Base URL"
+msgstr "Base URL"
+
+msgctxt "Languages::siteurl"
+msgid "Site URL"
+msgstr "Site URL"
+
+msgctxt "Languages::mobile_app.shopname"
+msgid "Shop Name"
+msgstr "Ονομα Καταστηματος"
+
+msgctxt "Languages::ttc_mobile_app.shopname"
+msgid "Shop Name"
+msgstr "Ονομα Καταστηματος"
+
+msgctxt "Languages::layoutid"
+msgid "Layout Id"
+msgstr "Layout Id"
+
+msgctxt "Languages::images_params"
+msgid "Images"
+msgstr "Εικόνες"
+
+msgctxt "Languages::mobile_app.m_app_icon"
+msgid "App Icon"
+msgstr "App Icon"
+
+msgctxt "Languages::tt_mobile_app.m_app_icon"
+msgid "1024 x 1024 (the big one is because it's Apple requirement, please note that it should look fine even if resized to 256x256)"
+msgstr "1024 x 1024 (the big one is because it's Apple requirement, please note that it should look fine even if resized to 256x256)"
+
+msgctxt "Languages::mobile_app.m_app_splash_portrait"
+msgid "Splash Screen (portrait)"
+msgstr "Splash Screen (portrait)"
+
+msgctxt "Languages::tt_mobile_app.m_app_splash_portrait"
+msgid "Recommended image size 1536x2208. It is displayed when you start the application on your mobile phone"
+msgstr "Συνιστώμενο μέγεθος εικόνας 1536 x 2208. Εμφανίζεται όταν ξεκινάτε την εφαρμογή στο κινητό σας τηλέφωνο"
+
+msgctxt "Languages::mobile_app.m_app_splash_landscape"
+msgid "Splash Screen (landscape)"
+msgstr "Splash Screen (landscape)"
+
+msgctxt "Languages::tt_mobile_app.m_app_splash_landscape"
+msgid "Recommended image size 2208x1536. It is displayed when you start the application on your mobile phone"
+msgstr "Συνιστώμενο μέγεθος εικόνας 2208 x 1536. Εμφανίζεται όταν ξεκινάτε την εφαρμογή στο κινητό σας τηλέφωνο"
+
+msgctxt "Languages::mobile_app.m_app_store_logo"
+msgid "Feature Graphic image"
+msgstr "Γραφικό Εικόνας χαρακτηρηστικού"
+
+msgctxt "Languages::tt_mobile_app.m_app_store_logo"
+msgid "(1024 x 500). It's the image shown in the Google Play page of your application, see \"Feature Graphic\" section <a href=\"https://support.google.com/googleplay/android-developer/answer/1078870?hl=en\" target=\"_blank\">here</a>"
+msgstr "(1024 x 500). It's the image shown in the Google Play page of your application, see \"Feature Graphic\" section <a href=\"https://support.google.com/googleplay/android-developer/answer/1078870?hl=en\" target=\"_blank\">here</a>"
+
+msgctxt "Languages::mobile_app.download_config"
+msgid "Download config"
+msgstr "Download config"
+
+msgctxt "Languages::mobile_app.preparing_config"
+msgid "Preparing config"
+msgstr "Preparing config"
+
+msgctxt "Languages::mobile_app.preparing_android_images"
+msgid "Preparing Android images"
+msgstr "Preparing Android images"
+
+msgctxt "Languages::mobile_app.preparing_android_images"
+msgid "Preparing Android images"
+msgstr "Preparing Android images"
+
+msgctxt "Languages::mobile_app.preparing_ios_icons"
+msgid "Preparing iOS icons"
+msgstr "Preparing iOS icons"
+
+msgctxt "Languages::mobile_app.preparing_ios_images"
+msgid "Preparing iOS images"
+msgstr "Preparing iOS images"
+
+msgctxt "Languages::mobile_app.preparing_archive"
+msgid "Preparing archive"
+msgstr "Preparing archive"
+
+msgctxt "SettingsSections::mobile_app::general"
+msgid "General"
+msgstr "Γενικά"
+
+msgctxt "SettingsSections::mobile_app::service"
+msgid "Configure"
+msgstr "Ρύθμιση παραμέτρων"
+
+msgctxt "Languages::mobile_app.configure_colors"
+msgid "Configure Colors"
+msgstr "Ρύθμιση Χρωμάτων"
+
+msgctxt "Languages::mobile_app.fcm_api_key"
+msgid "API key for push notifications"
+msgstr "API key για push notifications"
+
+msgctxt "Languages::mobile_app.fcm_api_key_tooltip"
+msgid "Obtain the Cloud Messaging <b>Legacy server key</b> from the <a href=\"https://console.firebase.google.com\" target=\"_blank\">Firebase console</a> using your bundle ID: [bundle_id]"
+msgstr "Αποκτήστε το <b> Legacy server key</b> του Cloud Messaging από την <a href=\"https://console.firebase.google.com\" target=\"_blank\">Firebase console</a>"
+
+msgctxt "Languages::mobile_app.services_config"
+msgid "Firebase config file (Android)"
+msgstr "Firebase config file (Android)"
+
+msgctxt "Languages::tt_mobile_app.services_config"
+msgid "Upload the google-services.json file that was generated when you added an Android application in Firebase."
+msgstr "Ανεβαστε το αρχειο google-services.json που δημιουργήθηκε όταν προσθέσατε μια εφαρμογή Android στο Firebase."
+
+msgctxt "Languages::mobile_app.mobile_registration"
+msgid "Registration"
+msgstr "Εγγραφή"
+
+msgctxt "Languages::mobile_app.mobile_registration_complete"
+msgid "Registration complete."
+msgstr "Ολοκλήρωση Εγγραφής."
+
+msgctxt "Languages::mobile_app.mobile_success"
+msgid "Success"
+msgstr "Επιτυχής"
+
+msgctxt "Languages::mobile_app.mobile_product_added_to_cart"
+msgid "The product was added to your cart."
+msgstr "Το προϊόν προστέθηκε στο καλάθι σας."
+
+msgctxt "Languages::mobile_app.mobile_notice"
+msgid "Notice"
+msgstr "Ενημερωση"
+
+msgctxt "Languages::mobile_app.mobile_text_cart_zero_inventory"
+msgid "Product has zero inventory and cannot be added to the cart."
+msgstr "Το προϊόν έχει μηδενικό απόθεμα και δεν μπορεί να προστεθεί στο καλάθι σας."
+
+msgctxt "Languages::mobile_app.mobile_error"
+msgid "Error"
+msgstr "Λάθος"
+
+msgctxt "Languages::mobile_app.mobile_error_try_later"
+msgid "Something went wrong. Please try again later."
+msgstr "Κάτι πήγε στραβά. Παρακαλούμε δοκιμάστε ξανά αργότερα."
+
+msgctxt "Languages::mobile_app.mobile_text_thank_you_for_post"
+msgid "Thank you for your post."
+msgstr "Ευχαριστούμε για την δημοσίευση σας."
+
+msgctxt "Languages::mobile_app.mobile_text_post_pended"
+msgid "Your post will be checked before it gets published."
+msgstr "Η δημοσίευσή σας θα ελεγχθεί προτού δημοσιευτεί."
+
+msgctxt "Languages::mobile_app.mobile_product_added_to_wl"
+msgid "The product was added to your Wish list."
+msgstr "Το προϊόν προστέθηκε στη λίστα Αγαπημένων σας."
+
+msgctxt "Languages::mobile_app.mobile_product_in_wishlist"
+msgid "This product is already in the wish list."
+msgstr "Αυτό το προϊόν είναι ήδη στην λίστα Αγαπημένων."
+
+msgctxt "Languages::mobile_app.mobile_total"
+msgid "Total"
+msgstr "Σύνολο"
+
+msgctxt "Languages::mobile_app.mobile_categories"
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+msgctxt "Languages::mobile_app.mobile_authentication"
+msgid "Authentication"
+msgstr "Έλεγχος ταυτότητας"
+
+msgctxt "Languages::mobile_app.mobile_delivery"
+msgid "Delivery"
+msgstr "Παράδοση"
+
+msgctxt "Languages::mobile_app.mobile_shipping"
+msgid "Shipping"
+msgstr "Αποστολή"
+
+msgctxt "Languages::mobile_app.mobile_payment_method"
+msgid "Payment method"
+msgstr "Τρόπος πληρωμής"
+
+msgctxt "Languages::mobile_app.mobile_no_posts_found"
+msgid "No posts found"
+msgstr "Δεν βρέθηκαν δημοσιεύσεις"
+
+msgctxt "Languages::mobile_app.mobile_list_is_empty"
+msgid "List is empty."
+msgstr "Η λιστα είναι άδεια."
+
+msgctxt "Languages::mobile_app.mobile_customer_signature"
+msgid "Customer's signature"
+msgstr "Υπογραφή Πελάτη"
+
+msgctxt "Languages::mobile_app.mobile_checking_account_number"
+msgid "Checking account number"
+msgstr "Έλέγχεται ο Αριθμός Λόγαριασμού"
+
+msgctxt "Languages::mobile_app.mobile_bank_routing_number"
+msgid "Bank routing number"
+msgstr "Αριθμός τραπέζης δρομολόγησης"
+
+msgctxt "Languages::mobile_app.mobile_comment"
+msgid "Comment"
+msgstr "Σχόλιο"
+
+msgctxt "Languages::mobile_app.mobile_card_number"
+msgid "Card Number"
+msgstr "Αριθμός Πιστωτικής Κάρτας"
+
+msgctxt "Languages::mobile_app.mobile_valid_thru_mm"
+msgid "Valid thru (mm)"
+msgstr "Ισχύει μέχρι τη (mm)"
+
+msgctxt "Languages::mobile_app.mobile_valid_thru_yy"
+msgid "Valid thru (yy)"
+msgstr "Ισχύει μέχρι τη (yy)"
+
+msgctxt "Languages::mobile_app.mobile_cardholder_name"
+msgid "Cardholder's name"
+msgstr "Όνομα Κατόχου Πιστωτικής Κάρτας"
+
+msgctxt "Languages::mobile_app.mobile_cvv2"
+msgid "CVV/CVC"
+msgstr "CVV/CVC"
+
+msgctxt "Languages::mobile_app.mobile_phone"
+msgid "Phone"
+msgstr "Αριθμός τηλεφώνου"
+
+msgctxt "Languages::mobile_app.mobile_save"
+msgid "Save"
+msgstr "Αποθήκευση"
+
+msgctxt "Languages::mobile_app.mobile_number_of_reviews"
+msgid "%1 reviews"
+msgstr "%1κριτικές"
+
+msgctxt "Languages::mobile_app.mobile_number_products_found"
+msgid "Products found: %1"
+msgstr "Προϊόντα που Βρέθηκαν: %1"
+
+msgctxt "Languages::mobile_app.mobile_view_details"
+msgid "View Detail"
+msgstr "Προβολή Λεπτομερειών"
+
+msgctxt "Languages::mobile_app.mobile_cart"
+msgid "Cart"
+msgstr "Καλάθι"
+
+msgctxt "Languages::mobile_app.mobile_confirm_clear_the_cart"
+msgid "Clear all cart ?"
+msgstr "Θέλετε να αδειάσετε το Καλάθι σας ;"
+
+msgctxt "Languages::mobile_app.mobile_cancel"
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+msgctxt "Languages::mobile_app.mobile_ok"
+msgid "Ok"
+msgstr "Ok"
+
+msgctxt "Languages::mobile_app.mobile_delete"
+msgid "Delete"
+msgstr "Διαγραφή"
+
+msgctxt "Languages::mobile_app.mobile_checkout"
+msgid "Checkout"
+msgstr "Ταμείο"
+
+msgctxt "Languages::mobile_app.mobile_text_cart_empty"
+msgid "Your shopping cart is empty."
+msgstr "Το καλάθι αγορών σας είναι άδειο."
+
+msgctxt "Languages::mobile_app.mobile_looking_for_ideas"
+msgid "Looking for ideas?"
+msgstr "Ψάχνετε για ιδέες;"
+
+msgctxt "Languages::mobile_app.mobile_search"
+msgid "Search"
+msgstr "Αναζήτηση"
+
+msgctxt "Languages::mobile_app.mobile_vendor_products"
+msgid "Vendor products"
+msgstr "Προϊόντα Πωλητή"
+
+msgctxt "Languages::mobile_app.mobile_products"
+msgid "Products"
+msgstr "Προϊόντα"
+
+msgctxt "Languages::mobile_app.mobile_login"
+msgid "Login"
+msgstr "Σύνδεση"
+
+msgctxt "Languages::mobile_app.mobile_wrong_password"
+msgid "Wrong password."
+msgstr "Λάθος κωδικό πρόσβασης."
+
+msgctxt "Languages::mobile_app.mobile_auth"
+msgid "Auth"
+msgstr "Auth"
+
+msgctxt "Languages::mobile_app.mobile_sign_in"
+msgid "Sign in"
+msgstr "Σύνδεση"
+
+msgctxt "Languages::mobile_app.mobile_sign_in_as_different"
+msgid "Sign in as a different user"
+msgstr "Σύνδεση ως διαφορετικός χρήστης"
+
+msgctxt "Languages::mobile_app.mobile_checkout_complete"
+msgid "Checkout complete"
+msgstr "Ολοκλήρωση παραγγελίας"
+
+msgctxt "Languages::mobile_app.mobile_congratulations"
+msgid "Congratulations!"
+msgstr "Συγχαρητήρια!"
+
+msgctxt "Languages::mobile_app.mobile_text_order_placed_successfully"
+msgid "Your order has been successfully placed."
+msgstr "Η παραγγελία σας πραγματοποιήθηκε με επιτυχία."
+
+msgctxt "Languages::mobile_app.mobile_order_lowercase"
+msgid "order"
+msgstr "παραγγελία"
+
+msgctxt "Languages::mobile_app.mobile_products_information"
+msgid "Products information"
+msgstr "Πληροφορίες Προϊόντων"
+
+msgctxt "Languages::mobile_app.mobile_billing_address"
+msgid "Billing address"
+msgstr "Διεύθυνση Χρέωσης"
+
+msgctxt "Languages::mobile_app.mobile_show_all"
+msgid "Show all"
+msgstr "Προβολή όλων"
+
+msgctxt "Languages::mobile_app.mobile_firstname_colon"
+msgid "First name:"
+msgstr "Ονομα:"
+
+msgctxt "Languages::mobile_app.mobile_lastname_colon"
+msgid "Last name:"
+msgstr "Επίθετο:"
+
+msgctxt "Languages::mobile_app.mobile_email_colon"
+msgid "E-mail:"
+msgstr "E-mail:"
+
+msgctxt "Languages::mobile_app.mobile_phone_colon"
+msgid "Phone:"
+msgstr "Αριθμός τηλεφώνου:"
+
+msgctxt "Languages::mobile_app.mobile_address_colon"
+msgid "Address:"
+msgstr "Διευθυνση:"
+
+msgctxt "Languages::mobile_app.mobile_city_colon"
+msgid "City:"
+msgstr "Πόλη:"
+
+msgctxt "Languages::mobile_app.mobile_country_colon"
+msgid "Country:"
+msgstr "Χώρα:"
+
+msgctxt "Languages::mobile_app.mobile_state_colon"
+msgid "State:"
+msgstr "Νομός:"
+
+msgctxt "Languages::mobile_app.mobile_shipping_address"
+msgid "Shipping address"
+msgstr "Διεύθυνση Αποστολής Εμπορευμάτων"
+
+msgctxt "Languages::mobile_app.mobile_change_address"
+msgid "Change address"
+msgstr "Αλλαγή διεύθυνσης"
+
+msgctxt "Languages::mobile_app.mobile_next"
+msgid "Next"
+msgstr "Επόμενο"
+
+msgctxt "Languages::mobile_app.mobile_place_order"
+msgid "Place order"
+msgstr "Κάντε την παραγγελία σας"
+
+msgctxt "Languages::mobile_app.mobile_comments_and_reviews"
+msgid "Comments & Reviews"
+msgstr "Σχόλια και κριτικές"
+
+msgctxt "Languages::mobile_app.mobile_vertical_delimiter"
+msgid "|"
+msgstr "|"
+
+msgctxt "Languages::mobile_app.mobile_home"
+msgid "Home"
+msgstr "Αρχική"
+
+msgctxt "Languages::mobile_app.mobile_wishlist"
+msgid "Wish List"
+msgstr "Wish List (Λίστα Επιθυμίας)"
+
+msgctxt "Languages::mobile_app.mobile_my_profile"
+msgid "My Profile"
+msgstr "Το προφίλ μου"
+
+msgctxt "Languages::mobile_app.mobile_orders"
+msgid "Orders"
+msgstr "Παραγγελίες"
+
+msgctxt "Languages::mobile_app.mobile_companies"
+msgid "Vendors"
+msgstr "Πωλητές"
+
+msgctxt "Languages::mobile_app.mobile_order_details"
+msgid "Order Detail"
+msgstr "Λεπτομέρειες Παραγγελίας"
+
+msgctxt "Languages::mobile_app.mobile_order"
+msgid "Order"
+msgstr "Παραγγελία"
+
+msgctxt "Languages::mobile_app.mobile_placed_on"
+msgid "Placed on"
+msgstr "Τοποθετήθηκε την"
+
+msgctxt "Languages::mobile_app.mobile_summary"
+msgid "Summary"
+msgstr "Περίληψη"
+
+msgctxt "Languages::mobile_app.mobile_payment_method_colon"
+msgid "Payment method:"
+msgstr "Τρόπος πληρωμής:"
+
+msgctxt "Languages::mobile_app.mobile_shipping_method_colon"
+msgid "Shipping method:"
+msgstr "Τρόπος Αποστολής:"
+
+msgctxt "Languages::mobile_app.mobile_subtotal_colon"
+msgid "Subtotal:"
+msgstr "Υποσύνολο:"
+
+msgctxt "Languages::mobile_app.mobile_shipping_cost_colon"
+msgid "Shipping cost:"
+msgstr "Κόστος Αποστολής:"
+
+msgctxt "Languages::mobile_app.mobile_total_colon"
+msgid "Total:"
+msgstr "Σύνολο:"
+
+msgctxt "Languages::mobile_app.mobile_discussion_title_product"
+msgid "Reviews"
+msgstr "Κριτικές"
+
+msgctxt "Languages::mobile_app.mobile_reviews_number"
+msgid "Reviews (%1)"
+msgstr "Κριτικές(%1)"
+
+msgctxt "Languages::mobile_app.mobile_write_review"
+msgid "Write a Review"
+msgstr "Γράψτε μια κριτική"
+
+msgctxt "Languages::mobile_app.mobile_view_all"
+msgid "View All"
+msgstr "Προβολή όλων"
+
+msgctxt "Languages::mobile_app.mobile_features"
+msgid "Feautures"
+msgstr "Χαρακτηριστικά"
+
+msgctxt "Languages::mobile_app.mobile_there_are_no_features"
+msgid "There are no feautures."
+msgstr "Δεν υπάρχουν χαρακτηριστικά."
+
+msgctxt "Languages::mobile_app.mobile_vendor_info"
+msgid "Vendor info"
+msgstr "Πληροφορίες πωλητή"
+
+msgctxt "Languages::mobile_app.mobile_items"
+msgid "%1 item(s)"
+msgstr "1%Είδος(η)"
+
+msgctxt "Languages::mobile_app.mobile_vendor_info"
+msgid "Vendor Info"
+msgstr "Πληροφορίες πωλητή"
+
+msgctxt "Languages::mobile_app.mobile_go_to_store"
+msgid "Go To Store"
+msgstr "Μεταβείτε στο κατάστημα"
+
+msgctxt "Languages::mobile_app.mobile_share_product"
+msgid "Share product"
+msgstr "Διαμοιρασμός Προϊόντος"
+
+msgctxt "Languages::mobile_app.mobile_add_to_cart"
+msgid "Add to cart"
+msgstr "Προσθήκη στο Καλάθι"
+
+msgctxt "Languages::mobile_app.mobile_profile"
+msgid "Profile"
+msgstr "Προφίλ"
+
+msgctxt "Languages::mobile_app.mobile_information"
+msgid "Information"
+msgstr "Πληροφορίες"
+
+msgctxt "Languages::mobile_app.mobile_text_profile_is_updated"
+msgid "The profile data has been updated successfully."
+msgstr "To Προφίλ σας ανανεώθηκε με επιτυχία."
+
+msgctxt "Languages::mobile_app.mobile_list_is_empty"
+msgid "List is empty"
+msgstr "Το καλάθι είναι άδειο"
+
+msgctxt "Languages::mobile_app.mobile_vendor_details"
+msgid "Vendor Detail"
+msgstr "Πληροφορίες πωλητή"
+
+msgctxt "Languages::mobile_app.mobile_contact_information"
+msgid "Contact Information"
+msgstr "Πληροφορίες Επικοινωνίας"
+
+msgctxt "Languages::mobile_app.mobile_email"
+msgid "E-mail"
+msgstr "E-mail"
+
+msgctxt "Languages::mobile_app.mobile_fax"
+msgid "Fax"
+msgstr "Φαξ"
+
+msgctxt "Languages::mobile_app.mobile_website"
+msgid "Website"
+msgstr "Ιστοσελίδα"
+
+msgctxt "Languages::mobile_app.mobile_confirm_clear_wishlist"
+msgid "Clear wish list?"
+msgstr "Καθάρισμα της Λίστας Αγαπημένων;"
+
+msgctxt "Languages::mobile_app.mobile_empty_wish_list_message"
+msgid "Your Wish Lists will love here."
+msgstr "Οι λίστες επιθυμίας σας θα αγαπήσουν εδώ."
+
+msgctxt "Languages::mobile_app.mobile_rating_is_mandatory"
+msgid "The rating field is mandatory."
+msgstr "Το πεδίο βαθμολόγησης είναι υποχρεωτικό."
+
+msgctxt "Languages::mobile_app.mobile_your_name"
+msgid "Your name"
+msgstr "Το Όνομα σας"
+
+msgctxt "Languages::mobile_app.mobile_your_message"
+msgid "Your message"
+msgstr "Το Μήνυμα σας"
+
+msgctxt "Languages::mobile_app.mobile_send_review"
+msgid "Send review"
+msgstr "Στείλτε μία κριτική"
+
+msgctxt "Languages::mobile_app.mobile_cannot_handle_url"
+msgid "Can't handle url"
+msgstr "Δεν είναι δυνατή η διαχείριση της διεύθυνσης Url"
+
+msgctxt "Languages::mobile_app.mobile_vendor"
+msgid "Vendor"
+msgstr "Πωλητής"
+
+msgctxt "Languages::mobile_app.mobile_details"
+msgid "Details"
+msgstr "Λεπτομέρειες"
+
+msgctxt "Languages::mobile_app.mobile_no_products_in_this_section"
+msgid "There are no products in this section"
+msgstr "Δεν υπάρχουν προϊόντα με αυτή την επιλογή"
+
+msgctxt "Languages::mobile_app.crop_when_resize"
+msgid "Crop image"
+msgstr "Αποκοπή εικόνας"
+
+msgctxt "Languages::tt_mobile_app.crop_when_resize"
+msgid "If ticked, some part of an image might be lost (cut out) when it's resized, otherwise transparent borders might be added."
+msgstr "Αν επιλεγεί, κάποιο τμήμα μιας εικόνας ενδέχεται να χαθεί (κόψει) όταν αλλάξει το μέγεθος, διαφορετικά θα μπορούσαν να προστεθούν διαφανή σύνορα."
+
+msgctxt "Languages::mobile_app.apple_pay"
+msgid "Apple Pay"
+msgstr ""
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_identifier"
+msgid "Merchant identifier"
+msgstr ""
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_identifier_tooltip"
+msgid "Obtain the <b>Merchant Identifier</b> as described in <a href=\"https://help.apple.com/developer-account/#/devb2e62b839?sub=dev103e030bb\" target=\"_blank\">Developer Account Help</a>"
+msgstr ""
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_name"
+msgid "Merchant name"
+msgstr ""
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_name_tooltip"
+msgid "Enter the Merchant ID Description that you used when registering your Merchant ID at the Apple Developer website."
+msgstr ""
+
+msgctxt "Languages::mobile_app.apple_pay_supported_networks"
+msgid "Payment networks"
+msgstr ""
+

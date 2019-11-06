@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.10.4/addons/mobile_app.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-09-09 07:10\n"
+
+msgctxt "Addons::name::mobile_app"
+msgid "Mobile application"
+msgstr "Мобильное приложение"
+
+msgctxt "Addons::description::mobile_app"
+msgid "Mobile application"
+msgstr "Мобильное приложение CS-Cart"
+
+msgctxt "Languages::app_params"
+msgid "Application"
+msgstr "Приложение"
+
+msgctxt "Languages::mobile_app.section.category"
+msgid "Categories"
+msgstr "Категории"
+
+msgctxt "Languages::mobile_app.section.drawer"
+msgid "Drawer (sidebar menu)"
+msgstr "Боковое меню"
+
+msgctxt "Languages::mobile_app.section.navbar"
+msgid "Navigation bar"
+msgstr "Панель навигации"
+
+msgctxt "Languages::mobile_app.section.product_screen"
+msgid "Product screen"
+msgstr "Экран товара"
+
+msgctxt "Languages::mobile_app.section.main"
+msgid "Main screen"
+msgstr "Главный экран"
+
+msgctxt "Languages::mobile_app.settings.access_key"
+msgid "Access key:"
+msgstr "Ключ доступа:"
+
+msgctxt "Languages::mobile_app.appname"
+msgid "App Name"
+msgstr "Название приложения"
+
+msgctxt "Languages::mobile_app.appshortdescription"
+msgid "Short description"
+msgstr "Краткое описание"
+
+msgctxt "Languages::mobile_app.appfulldescription"
+msgid "Full description"
+msgstr "Полное описание"
+
+msgctxt "Languages::mobile_app.supportemail"
+msgid "Support email"
+msgstr "Email поддержки"
+
+msgctxt "Languages::mobile_app.privacypolicyurl"
+msgid "Privacy Policy URL"
+msgstr "Ссылка на политику конфиденциальности"
+
+msgctxt "Languages::ttc_mobile_app.appname"
+msgid "Application name (up to 30 symbols)"
+msgstr "Название приложения (до 30 символов)"
+
+msgctxt "Languages::ttc_mobile_app.appshortdescription"
+msgid "Application short description (up to 80 symbols)"
+msgstr "Краткое описание приложения (до 80 символов)"
+
+msgctxt "Languages::ttc_mobile_app.appfulldescription"
+msgid "Application full description (up to 4000 symbols)"
+msgstr "Полное описание приложения (до 4000 символов)"
+
+msgctxt "Languages::ttc_mobile_app.supportemail"
+msgid "Will be displayed in 'about app' section"
+msgstr "Будет отображаться в разделе «О приложении»"
+
+msgctxt "Languages::ttc_mobile_app.privacypolicyurl"
+msgid "URL of the Privacy Policy page of your store"
+msgstr "Ссылка на страницу с политикой конфиденциальности вашего магазина"
+
+msgctxt "Languages::mobile_app.pushnotifications"
+msgid "Push notifications"
+msgstr "Push-уведомления"
+
+msgctxt "Languages::ttc_mobile_app.pushnotifications"
+msgid "Push notifications"
+msgstr "Push-уведомления"
+
+msgctxt "Languages::bundleid"
+msgid "Bundle Id"
+msgstr "ID бандла"
+
+msgctxt "Languages::apikey"
+msgid "API Key"
+msgstr "API-ключ"
+
+msgctxt "Languages::baseurl"
+msgid "Base URL"
+msgstr "Базовый URL-адрес"
+
+msgctxt "Languages::siteurl"
+msgid "Site URL"
+msgstr "URL-адрес сайта"
+
+msgctxt "Languages::mobile_app.shopname"
+msgid "Shop Name"
+msgstr "Имя магазина"
+
+msgctxt "Languages::ttc_mobile_app.shopname"
+msgid "Shop Name"
+msgstr "Имя магазина"
+
+msgctxt "Languages::layoutid"
+msgid "Layout Id"
+msgstr "ID макета"
+
+msgctxt "Languages::images_params"
+msgid "Images"
+msgstr "Изображения"
+
+msgctxt "Languages::mobile_app.m_app_icon"
+msgid "App Icon"
+msgstr "Иконка приложения"
+
+msgctxt "Languages::tt_mobile_app.m_app_icon"
+msgid "1024 x 1024 (the big one is because it's Apple requirement, please note that it should look fine even if resized to 256x256)"
+msgstr "1024x1024 (такой большой размер обусловлен требованиями Apple; убедитесь, что изображение хорошо смотрится, если изменить его размер на 256x256)"
+
+msgctxt "Languages::mobile_app.m_app_splash_portrait"
+msgid "Splash Screen (portrait)"
+msgstr "Заставка (вертикальная)"
+
+msgctxt "Languages::tt_mobile_app.m_app_splash_portrait"
+msgid "Recommended image size 1536x2208. It is displayed when you start the application on your mobile phone"
+msgstr "Рекомендуемый размер изображения 1536x2208. Оно отобразится при запуске приложения на вашем мобильном телефоне"
+
+msgctxt "Languages::mobile_app.m_app_splash_landscape"
+msgid "Splash Screen (landscape)"
+msgstr "Заставка (горизонтальная)"
+
+msgctxt "Languages::tt_mobile_app.m_app_splash_landscape"
+msgid "Recommended image size 2208x1536. It is displayed when you start the application on your mobile phone"
+msgstr "Рекомендуемый размер изображения 2208x1536. Оно отобразится при запуске приложения на вашем мобильном телефоне"
+
+msgctxt "Languages::mobile_app.m_app_store_logo"
+msgid "Feature Graphic image"
+msgstr "Картинка для описания"
+
+msgctxt "Languages::tt_mobile_app.m_app_store_logo"
+msgid "(1024 x 500). It's the image shown in the Google Play page of your application, see \"Feature Graphic\" section <a href=\"https://support.google.com/googleplay/android-developer/answer/1078870?hl=en\" target=\"_blank\">here</a>"
+msgstr "(1024x500). Это изображение появится на странице вашего приложения в Google Play; подробности см. <a href=\"https://support.google.com/googleplay/android-developer/answer/1078870?hl=ru\" target=\"_blank\">тут</a> (Картинка для раздела \"Рекомендуемые\")"
+
+msgctxt "Languages::mobile_app.download_config"
+msgid "Download config"
+msgstr "Скачать настройки"
+
+msgctxt "Languages::mobile_app.preparing_config"
+msgid "Preparing config"
+msgstr "Подготовка настроек"
+
+msgctxt "Languages::mobile_app.preparing_android_images"
+msgid "Preparing Android images"
+msgstr "Подготовка изображений для Android"
+
+msgctxt "Languages::mobile_app.preparing_android_images"
+msgid "Preparing Android images"
+msgstr "Подготовка изображений для Android"
+
+msgctxt "Languages::mobile_app.preparing_ios_icons"
+msgid "Preparing iOS icons"
+msgstr "Подготовка иконок для iOS"
+
+msgctxt "Languages::mobile_app.preparing_ios_images"
+msgid "Preparing iOS images"
+msgstr "Подготовка изображений для iOS"
+
+msgctxt "Languages::mobile_app.preparing_archive"
+msgid "Preparing archive"
+msgstr "Подготовка архива"
+
+msgctxt "SettingsSections::mobile_app::general"
+msgid "General"
+msgstr "Общие"
+
+msgctxt "SettingsSections::mobile_app::service"
+msgid "Configure"
+msgstr "Настроить"
+
+msgctxt "Languages::mobile_app.configure_colors"
+msgid "Configure Colors"
+msgstr "Настройки цветов"
+
+msgctxt "Languages::mobile_app.fcm_api_key"
+msgid "API key for push notifications"
+msgstr "API-ключ для push-уведомлений"
+
+msgctxt "Languages::mobile_app.fcm_api_key_tooltip"
+msgid "Obtain the Cloud Messaging <b>Legacy server key</b> from the <a href=\"https://console.firebase.google.com\" target=\"_blank\">Firebase console</a> using your bundle ID: [bundle_id]"
+msgstr "Получите <b>Legacy server key</b> от Cloud Messaging в <a href=\"https://console.firebase.google.com\" target=\"_blank\">Firebase</a>, используя ваш bundle ID: [bundle_id]"
+
+msgctxt "Languages::mobile_app.services_config"
+msgid "Firebase config file (Android)"
+msgstr "Файл с настройками Firebase (Android)"
+
+msgctxt "Languages::tt_mobile_app.services_config"
+msgid "Upload the google-services.json file that was generated when you added an Android application in Firebase."
+msgstr "Загрузите файл google-services.json, который был создан при добавлении приложения Android в Firebase."
+
+msgctxt "Languages::mobile_app.mobile_registration"
+msgid "Registration"
+msgstr "Регистрация"
+
+msgctxt "Languages::mobile_app.mobile_registration_complete"
+msgid "Registration complete."
+msgstr "Регистрация завершена."
+
+msgctxt "Languages::mobile_app.mobile_success"
+msgid "Success"
+msgstr "Успех"
+
+msgctxt "Languages::mobile_app.mobile_product_added_to_cart"
+msgid "The product was added to your cart."
+msgstr "Товар добавлен в корзину."
+
+msgctxt "Languages::mobile_app.mobile_notice"
+msgid "Notice"
+msgstr "Обратите внимание"
+
+msgctxt "Languages::mobile_app.mobile_text_cart_zero_inventory"
+msgid "Product has zero inventory and cannot be added to the cart."
+msgstr "Товара нет в наличии, поэтому его нельзя добавить в корзину."
+
+msgctxt "Languages::mobile_app.mobile_error"
+msgid "Error"
+msgstr "Ошибка"
+
+msgctxt "Languages::mobile_app.mobile_error_try_later"
+msgid "Something went wrong. Please try again later."
+msgstr "Что-то пошло не так. Пожалуйста, повторите попытку позже."
+
+msgctxt "Languages::mobile_app.mobile_text_thank_you_for_post"
+msgid "Thank you for your post."
+msgstr "Спасибо за сообщение."
+
+msgctxt "Languages::mobile_app.mobile_text_post_pended"
+msgid "Your post will be checked before it gets published."
+msgstr "Ваше сообщение будет проверено, прежде чем оно будет опубликовано."
+
+msgctxt "Languages::mobile_app.mobile_product_added_to_wl"
+msgid "The product was added to your Wish list."
+msgstr "Товар добавлен в список отложенных товаров."
+
+msgctxt "Languages::mobile_app.mobile_product_in_wishlist"
+msgid "This product is already in the wish list."
+msgstr "Товар уже есть в списке отложенных товаров."
+
+msgctxt "Languages::mobile_app.mobile_total"
+msgid "Total"
+msgstr "Итого"
+
+msgctxt "Languages::mobile_app.mobile_categories"
+msgid "Categories"
+msgstr "Категории"
+
+msgctxt "Languages::mobile_app.mobile_authentication"
+msgid "Authentication"
+msgstr "Авторизация"
+
+msgctxt "Languages::mobile_app.mobile_delivery"
+msgid "Delivery"
+msgstr "Доставка"
+
+msgctxt "Languages::mobile_app.mobile_shipping"
+msgid "Shipping"
+msgstr "Доставка"
+
+msgctxt "Languages::mobile_app.mobile_payment_method"
+msgid "Payment method"
+msgstr "Способ оплаты"
+
+msgctxt "Languages::mobile_app.mobile_no_posts_found"
+msgid "No posts found"
+msgstr "Сообщения не найдены"
+
+msgctxt "Languages::mobile_app.mobile_list_is_empty"
+msgid "List is empty."
+msgstr "Список пуст."
+
+msgctxt "Languages::mobile_app.mobile_customer_signature"
+msgid "Customer's signature"
+msgstr "Подпись покупателя"
+
+msgctxt "Languages::mobile_app.mobile_checking_account_number"
+msgid "Checking account number"
+msgstr "Номер расчетного счета"
+
+msgctxt "Languages::mobile_app.mobile_bank_routing_number"
+msgid "Bank routing number"
+msgstr "Код банка (только для США)"
+
+msgctxt "Languages::mobile_app.mobile_comment"
+msgid "Comment"
+msgstr "Комментарий"
+
+msgctxt "Languages::mobile_app.mobile_card_number"
+msgid "Card Number"
+msgstr "Номер карты"
+
+msgctxt "Languages::mobile_app.mobile_valid_thru_mm"
+msgid "Valid thru (mm)"
+msgstr "Действует до (мм)"
+
+msgctxt "Languages::mobile_app.mobile_valid_thru_yy"
+msgid "Valid thru (yy)"
+msgstr "Действует до (гг)"
+
+msgctxt "Languages::mobile_app.mobile_cardholder_name"
+msgid "Cardholder's name"
+msgstr "Имя владельца карты"
+
+msgctxt "Languages::mobile_app.mobile_cvv2"
+msgid "CVV/CVC"
+msgstr "CVV/CVC"
+
+msgctxt "Languages::mobile_app.mobile_phone"
+msgid "Phone"
+msgstr "Телефон"
+
+msgctxt "Languages::mobile_app.mobile_save"
+msgid "Save"
+msgstr "Скидка"
+
+msgctxt "Languages::mobile_app.mobile_number_of_reviews"
+msgid "%1 reviews"
+msgstr "Количество отзывов: %1"
+
+msgctxt "Languages::mobile_app.mobile_number_products_found"
+msgid "Products found: %1"
+msgstr "Найдено товаров: %1"
+
+msgctxt "Languages::mobile_app.mobile_view_details"
+msgid "View Detail"
+msgstr "Просмотреть"
+
+msgctxt "Languages::mobile_app.mobile_cart"
+msgid "Cart"
+msgstr "Корзина"
+
+msgctxt "Languages::mobile_app.mobile_confirm_clear_the_cart"
+msgid "Clear all cart ?"
+msgstr "Очистить корзину ?"
+
+msgctxt "Languages::mobile_app.mobile_cancel"
+msgid "Cancel"
+msgstr "Отмена"
+
+msgctxt "Languages::mobile_app.mobile_ok"
+msgid "Ok"
+msgstr "Ок"
+
+msgctxt "Languages::mobile_app.mobile_delete"
+msgid "Delete"
+msgstr "Удалить"
+
+msgctxt "Languages::mobile_app.mobile_checkout"
+msgid "Checkout"
+msgstr "Оформление заказа"
+
+msgctxt "Languages::mobile_app.mobile_text_cart_empty"
+msgid "Your shopping cart is empty."
+msgstr "Ваша корзина пуста."
+
+msgctxt "Languages::mobile_app.mobile_looking_for_ideas"
+msgid "Looking for ideas?"
+msgstr "Думаете, что купить?"
+
+msgctxt "Languages::mobile_app.mobile_search"
+msgid "Search"
+msgstr "Поиск"
+
+msgctxt "Languages::mobile_app.mobile_vendor_products"
+msgid "Vendor products"
+msgstr "Товары продавца"
+
+msgctxt "Languages::mobile_app.mobile_products"
+msgid "Products"
+msgstr "Товары"
+
+msgctxt "Languages::mobile_app.mobile_login"
+msgid "Login"
+msgstr "Вход"
+
+msgctxt "Languages::mobile_app.mobile_wrong_password"
+msgid "Wrong password."
+msgstr "Неверный пароль."
+
+msgctxt "Languages::mobile_app.mobile_auth"
+msgid "Auth"
+msgstr "Вход"
+
+msgctxt "Languages::mobile_app.mobile_sign_in"
+msgid "Sign in"
+msgstr "Войти"
+
+msgctxt "Languages::mobile_app.mobile_sign_in_as_different"
+msgid "Sign in as a different user"
+msgstr "Авторизоваться как другой пользователь"
+
+msgctxt "Languages::mobile_app.mobile_checkout_complete"
+msgid "Checkout complete"
+msgstr "Оформление заказа завершено"
+
+msgctxt "Languages::mobile_app.mobile_congratulations"
+msgid "Congratulations!"
+msgstr "Поздравляем!"
+
+msgctxt "Languages::mobile_app.mobile_text_order_placed_successfully"
+msgid "Your order has been successfully placed."
+msgstr "Ваш заказ размещен."
+
+msgctxt "Languages::mobile_app.mobile_order_lowercase"
+msgid "order"
+msgstr "заказ"
+
+msgctxt "Languages::mobile_app.mobile_products_information"
+msgid "Products information"
+msgstr "Информация о товарах"
+
+msgctxt "Languages::mobile_app.mobile_billing_address"
+msgid "Billing address"
+msgstr "Адрес плательщика"
+
+msgctxt "Languages::mobile_app.mobile_show_all"
+msgid "Show all"
+msgstr "Показать все"
+
+msgctxt "Languages::mobile_app.mobile_firstname_colon"
+msgid "First name:"
+msgstr "Имя:"
+
+msgctxt "Languages::mobile_app.mobile_lastname_colon"
+msgid "Last name:"
+msgstr "Фамилия:"
+
+msgctxt "Languages::mobile_app.mobile_email_colon"
+msgid "E-mail:"
+msgstr "E-mail:"
+
+msgctxt "Languages::mobile_app.mobile_phone_colon"
+msgid "Phone:"
+msgstr "Телефон:"
+
+msgctxt "Languages::mobile_app.mobile_address_colon"
+msgid "Address:"
+msgstr "Адрес:"
+
+msgctxt "Languages::mobile_app.mobile_city_colon"
+msgid "City:"
+msgstr "Город:"
+
+msgctxt "Languages::mobile_app.mobile_country_colon"
+msgid "Country:"
+msgstr "Страна:"
+
+msgctxt "Languages::mobile_app.mobile_state_colon"
+msgid "State:"
+msgstr "Область:"
+
+msgctxt "Languages::mobile_app.mobile_shipping_address"
+msgid "Shipping address"
+msgstr "Адрес доставки"
+
+msgctxt "Languages::mobile_app.mobile_change_address"
+msgid "Change address"
+msgstr "Изменить адрес"
+
+msgctxt "Languages::mobile_app.mobile_next"
+msgid "Next"
+msgstr "Далее"
+
+msgctxt "Languages::mobile_app.mobile_place_order"
+msgid "Place order"
+msgstr "Разместить заказ"
+
+msgctxt "Languages::mobile_app.mobile_comments_and_reviews"
+msgid "Comments & Reviews"
+msgstr "Отзывы и комментарии"
+
+msgctxt "Languages::mobile_app.mobile_vertical_delimiter"
+msgid "|"
+msgstr "|"
+
+msgctxt "Languages::mobile_app.mobile_home"
+msgid "Home"
+msgstr "Главная страница"
+
+msgctxt "Languages::mobile_app.mobile_wishlist"
+msgid "Wish List"
+msgstr "Отложенные товары"
+
+msgctxt "Languages::mobile_app.mobile_my_profile"
+msgid "My Profile"
+msgstr "Мой профиль"
+
+msgctxt "Languages::mobile_app.mobile_orders"
+msgid "Orders"
+msgstr "Заказы"
+
+msgctxt "Languages::mobile_app.mobile_companies"
+msgid "Vendors"
+msgstr "Продавцы"
+
+msgctxt "Languages::mobile_app.mobile_order_details"
+msgid "Order Detail"
+msgstr "Подробности заказа"
+
+msgctxt "Languages::mobile_app.mobile_order"
+msgid "Order"
+msgstr "Заказ"
+
+msgctxt "Languages::mobile_app.mobile_placed_on"
+msgid "Placed on"
+msgstr "Размещён"
+
+msgctxt "Languages::mobile_app.mobile_summary"
+msgid "Summary"
+msgstr "Итог"
+
+msgctxt "Languages::mobile_app.mobile_payment_method_colon"
+msgid "Payment method:"
+msgstr "Способ оплаты:"
+
+msgctxt "Languages::mobile_app.mobile_shipping_method_colon"
+msgid "Shipping method:"
+msgstr "Способ доставки:"
+
+msgctxt "Languages::mobile_app.mobile_subtotal_colon"
+msgid "Subtotal:"
+msgstr "Подытог:"
+
+msgctxt "Languages::mobile_app.mobile_shipping_cost_colon"
+msgid "Shipping cost:"
+msgstr "Стоимость доставки:"
+
+msgctxt "Languages::mobile_app.mobile_total_colon"
+msgid "Total:"
+msgstr "Итого:"
+
+msgctxt "Languages::mobile_app.mobile_discussion_title_product"
+msgid "Reviews"
+msgstr "Отзывы"
+
+msgctxt "Languages::mobile_app.mobile_reviews_number"
+msgid "Reviews (%1)"
+msgstr "Отзывы (%1)"
+
+msgctxt "Languages::mobile_app.mobile_write_review"
+msgid "Write a Review"
+msgstr "Написать отзыв"
+
+msgctxt "Languages::mobile_app.mobile_view_all"
+msgid "View All"
+msgstr "Посмотреть все"
+
+msgctxt "Languages::mobile_app.mobile_features"
+msgid "Feautures"
+msgstr "Характеристики"
+
+msgctxt "Languages::mobile_app.mobile_there_are_no_features"
+msgid "There are no feautures."
+msgstr "Характеристики не указаны."
+
+msgctxt "Languages::mobile_app.mobile_vendor_info"
+msgid "Vendor info"
+msgstr "Информация о продавце"
+
+msgctxt "Languages::mobile_app.mobile_items"
+msgid "%1 item(s)"
+msgstr "Количество товаров: %1"
+
+msgctxt "Languages::mobile_app.mobile_vendor_info"
+msgid "Vendor Info"
+msgstr "Информация о продавце"
+
+msgctxt "Languages::mobile_app.mobile_go_to_store"
+msgid "Go To Store"
+msgstr "Перейти в магазин"
+
+msgctxt "Languages::mobile_app.mobile_share_product"
+msgid "Share product"
+msgstr "Поделиться"
+
+msgctxt "Languages::mobile_app.mobile_add_to_cart"
+msgid "Add to cart"
+msgstr "В корзину"
+
+msgctxt "Languages::mobile_app.mobile_profile"
+msgid "Profile"
+msgstr "Профиль"
+
+msgctxt "Languages::mobile_app.mobile_information"
+msgid "Information"
+msgstr "Информация"
+
+msgctxt "Languages::mobile_app.mobile_text_profile_is_updated"
+msgid "The profile data has been updated successfully."
+msgstr "Данные вашего профиля были успешно изменены."
+
+msgctxt "Languages::mobile_app.mobile_list_is_empty"
+msgid "List is empty"
+msgstr "Список пуст"
+
+msgctxt "Languages::mobile_app.mobile_vendor_details"
+msgid "Vendor Detail"
+msgstr "Информация о продавце"
+
+msgctxt "Languages::mobile_app.mobile_contact_information"
+msgid "Contact Information"
+msgstr "Контактная информация"
+
+msgctxt "Languages::mobile_app.mobile_email"
+msgid "E-mail"
+msgstr "E-mail"
+
+msgctxt "Languages::mobile_app.mobile_fax"
+msgid "Fax"
+msgstr "Факс"
+
+msgctxt "Languages::mobile_app.mobile_website"
+msgid "Website"
+msgstr "Веб-сайт"
+
+msgctxt "Languages::mobile_app.mobile_confirm_clear_wishlist"
+msgid "Clear wish list?"
+msgstr "Очистить список отложенных товаров?"
+
+msgctxt "Languages::mobile_app.mobile_empty_wish_list_message"
+msgid "Your Wish Lists will love here."
+msgstr "Здесь будет ваш список отложенных товаров."
+
+msgctxt "Languages::mobile_app.mobile_rating_is_mandatory"
+msgid "The rating field is mandatory."
+msgstr "Оценка обязательна."
+
+msgctxt "Languages::mobile_app.mobile_your_name"
+msgid "Your name"
+msgstr "Ваше имя"
+
+msgctxt "Languages::mobile_app.mobile_your_message"
+msgid "Your message"
+msgstr "Ваше сообщение"
+
+msgctxt "Languages::mobile_app.mobile_send_review"
+msgid "Send review"
+msgstr "Отправить отзыв"
+
+msgctxt "Languages::mobile_app.mobile_cannot_handle_url"
+msgid "Can't handle url"
+msgstr "Не получается обработать URL"
+
+msgctxt "Languages::mobile_app.mobile_vendor"
+msgid "Vendor"
+msgstr "Продавец"
+
+msgctxt "Languages::mobile_app.mobile_details"
+msgid "Details"
+msgstr "Подробнее"
+
+msgctxt "Languages::mobile_app.mobile_no_products_in_this_section"
+msgid "There are no products in this section"
+msgstr "В этой категории нет товаров"
+
+msgctxt "Languages::mobile_app.crop_when_resize"
+msgid "Crop image"
+msgstr "Обрезать изображение"
+
+msgctxt "Languages::tt_mobile_app.crop_when_resize"
+msgid "If ticked, some part of an image might be lost (cut out) when it's resized, otherwise transparent borders might be added."
+msgstr "Если галочка стоит, то при изменении размера изображения его края могут быть обрезаны. Если галочка не стоит, то при изменении размера могут быть добавлены прозрачные границы."
+
+msgctxt "Languages::mobile_app.apple_pay"
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_identifier"
+msgid "Merchant identifier"
+msgstr "Идентификатор продавца"
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_identifier_tooltip"
+msgid "Obtain the <b>Merchant Identifier</b> as described in <a href=\"https://help.apple.com/developer-account/#/devb2e62b839?sub=dev103e030bb\" target=\"_blank\">Developer Account Help</a>"
+msgstr "Получите <b>Merchant Identifier</b> по инструкции из <a href=\"https://help.apple.com/developer-account/#/devb2e62b839?sub=dev103e030bb\" target=\"_blank\">Developer Account Help</a>"
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_name"
+msgid "Merchant name"
+msgstr "Имя продавца"
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_name_tooltip"
+msgid "Enter the Merchant ID Description that you used when registering your Merchant ID at the Apple Developer website."
+msgstr "Введите сюда значение Merchant ID Description, которое вы использовали при регистрации Merchant ID на сайте Apple Developer."
+
+msgctxt "Languages::mobile_app.apple_pay_supported_networks"
+msgid "Payment networks"
+msgstr "Платёжные сети"
+

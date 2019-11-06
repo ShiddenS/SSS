@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: pl\n"
+"X-Crowdin-File: /release-4.10.4/addons/image_zoom.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-09-05 09:43\n"
+
+msgctxt "Addons::name::image_zoom"
+msgid "Image zoom"
+msgstr "Zoom obrazu"
+
+msgctxt "Addons::description::image_zoom"
+msgid "Shows zoomed image on product image hover"
+msgstr "Pokazuje powiększony obraz produktu po najechaniu na niego kursorem myszy"
+
+msgctxt "SettingsSections::image_zoom::general"
+msgid "General"
+msgstr "Ogólne"
+
+msgctxt "SettingsOptions::image_zoom::cz_animation_time"
+msgid "Animation time"
+msgstr "Czas animacji"
+
+msgctxt "SettingsOptions::image_zoom::cz_zoom_position"
+msgid "Zoom position"
+msgstr "Pozycja zoomu"
+
+msgctxt "SettingsTooltips::image_zoom::cz_animation_time"
+msgid "Duration of the animation effects in milliseconds."
+msgstr "Czas trwania efektów animacji w milisekundach."
+
+msgctxt "SettingsTooltips::image_zoom::cz_zoom_position"
+msgid "Specifies position of zoom window. The position is relative to image as shown by the following key (blue squares represent zoom window). <br /><br /><img src=\"design/backend/media/images/addons/image_zoom/zoom-positions.png\" />"
+msgstr "Określa pozycję okna powiększenia. Pozycja jest względem obrazu, jak pokazano za pomocą następującego klucza (niebieskie kwadraty reprezentują okno powiększenia). <br /><br /><img src=\"design/backend/media/images/addons/image_zoom/zoom-position.png\" />"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::0"
+msgid "Zoom position №0"
+msgstr "Pozycja zoomu №0"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::1"
+msgid "Zoom position №1"
+msgstr "Pozycja zoomu №1"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::2"
+msgid "Zoom position №2"
+msgstr "Pozycja zoomu №2"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::3"
+msgid "Zoom position №3"
+msgstr "Pozycja zoomu №3"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::4"
+msgid "Zoom position №4"
+msgstr "Pozycja zoomu №4"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::5"
+msgid "Zoom position №5"
+msgstr "Pozycja zoomu №5"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::6"
+msgid "Zoom position №6"
+msgstr "Pozycja zoomu №6"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::7"
+msgid "Zoom position №7"
+msgstr "Pozycja zoomu №7"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::8"
+msgid "Zoom position №8"
+msgstr "Pozycja zoomu №8"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::9"
+msgid "Zoom position №9"
+msgstr "Pozycja zoomu №9"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::10"
+msgid "Zoom position №10"
+msgstr "Pozycja zoomu №10"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::11"
+msgid "Zoom position №11"
+msgstr "Pozycja zoomu №11"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::12"
+msgid "Zoom position №12"
+msgstr "Pozycja zoomu №12"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::13"
+msgid "Zoom position №13"
+msgstr "Pozycja zoomu №13"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::14"
+msgid "Zoom position №14"
+msgstr "Pozycja zoomu №14"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::15"
+msgid "Zoom position №15"
+msgstr "Pozycja zoomu №15"
+
+msgctxt "Languages::image_zoom.rework_update_notification.title"
+msgid "Image Zoom add-on reworked"
+msgstr "Dodatek Image Zoom - przerobiony"
+
+msgctxt "Languages::image_zoom.rework_update_notification.message"
+msgid "<p>We reworked the <b>Image zoom</b> add-on, because it used a third-party solution incompatible with modern versions of jQuery. As a result of the rework, some settings of the add-on were removed.</p><p>Please check how the image zoom looks on the product pages now. If you'd like to make any changes to the looks, adjust the settings of the <b>Image zoom</b> add-on.</p><p><a href=\"[image_zoom_settings]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Check Image Zoom settings</a></p>"
+msgstr "<p>Przerobiliśmy dodatek<b>Image zoom</b>, ponieważ używał on rozwiązania innej firmy niezgodnego z nowoczesnymi wersjami jQuery. W wyniku przeróbek niektóre ustawienia dodatku zostały usunięte.</p><p>Sprawdź teraz, jak wygląda powiększenie obrazu na stronach produktu. Jeśli chcesz wprowadzić zmiany w wyglądzie, dostosuj ustawienia dodatku <b>Image zoom</b>.</p><p><a href = \"[image_zoom_settings]\" target = \" _blank \"class =\" btn btn-large btn-primary \">Sprawdź ustawienia powiększenia obrazu</a></p>"
+

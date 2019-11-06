@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.10.4/addons/mobile_app.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-09-05 09:34\n"
+
+msgctxt "Addons::name::mobile_app"
+msgid "Mobile application"
+msgstr "تطبيق الجوال"
+
+msgctxt "Addons::description::mobile_app"
+msgid "Mobile application"
+msgstr "تطبيق الجوال"
+
+msgctxt "Languages::app_params"
+msgid "Application"
+msgstr "التطبيق"
+
+msgctxt "Languages::mobile_app.section.category"
+msgid "Categories"
+msgstr "الفئات"
+
+msgctxt "Languages::mobile_app.section.drawer"
+msgid "Drawer (sidebar menu)"
+msgstr ""
+
+msgctxt "Languages::mobile_app.section.navbar"
+msgid "Navigation bar"
+msgstr "شريط التنقل"
+
+msgctxt "Languages::mobile_app.section.product_screen"
+msgid "Product screen"
+msgstr "شاشة المنتج"
+
+msgctxt "Languages::mobile_app.section.main"
+msgid "Main screen"
+msgstr "الشاشة الرئيسية"
+
+msgctxt "Languages::mobile_app.settings.access_key"
+msgid "Access key:"
+msgstr "مفتاح وصول:"
+
+msgctxt "Languages::mobile_app.appname"
+msgid "App Name"
+msgstr "اسم التطبيق"
+
+msgctxt "Languages::mobile_app.appshortdescription"
+msgid "Short description"
+msgstr "وصف قصير"
+
+msgctxt "Languages::mobile_app.appfulldescription"
+msgid "Full description"
+msgstr "وصف كامل"
+
+msgctxt "Languages::mobile_app.supportemail"
+msgid "Support email"
+msgstr "دعم البريد الإلكتروني"
+
+msgctxt "Languages::mobile_app.privacypolicyurl"
+msgid "Privacy Policy URL"
+msgstr "عنوان سياسة الخصوصية"
+
+msgctxt "Languages::ttc_mobile_app.appname"
+msgid "Application name (up to 30 symbols)"
+msgstr "اسم التطبيق (الرموز تصل إلى 30)"
+
+msgctxt "Languages::ttc_mobile_app.appshortdescription"
+msgid "Application short description (up to 80 symbols)"
+msgstr "وصف التطبيق القصير (الرموز تصل إلى 80)"
+
+msgctxt "Languages::ttc_mobile_app.appfulldescription"
+msgid "Application full description (up to 4000 symbols)"
+msgstr "وصف التطبيق القصير (الرموز تصل إلى 4000)"
+
+msgctxt "Languages::ttc_mobile_app.supportemail"
+msgid "Will be displayed in 'about app' section"
+msgstr "سيتم عرضه في قسم \"حول التطبيق\""
+
+msgctxt "Languages::ttc_mobile_app.privacypolicyurl"
+msgid "URL of the Privacy Policy page of your store"
+msgstr "عنوان URL لصفحة \"سياسة الخصوصية\" للمتجر الخاص بك"
+
+msgctxt "Languages::mobile_app.pushnotifications"
+msgid "Push notifications"
+msgstr ""
+
+msgctxt "Languages::ttc_mobile_app.pushnotifications"
+msgid "Push notifications"
+msgstr ""
+
+msgctxt "Languages::bundleid"
+msgid "Bundle Id"
+msgstr ""
+
+msgctxt "Languages::apikey"
+msgid "API Key"
+msgstr "مفتاح API"
+
+msgctxt "Languages::baseurl"
+msgid "Base URL"
+msgstr ""
+
+msgctxt "Languages::siteurl"
+msgid "Site URL"
+msgstr "Url الخاص بالموقع"
+
+msgctxt "Languages::mobile_app.shopname"
+msgid "Shop Name"
+msgstr "اسم المحل"
+
+msgctxt "Languages::ttc_mobile_app.shopname"
+msgid "Shop Name"
+msgstr "اسم المحل"
+
+msgctxt "Languages::layoutid"
+msgid "Layout Id"
+msgstr ""
+
+msgctxt "Languages::images_params"
+msgid "Images"
+msgstr "الصور"
+
+msgctxt "Languages::mobile_app.m_app_icon"
+msgid "App Icon"
+msgstr "أيقونة التطبيق"
+
+msgctxt "Languages::tt_mobile_app.m_app_icon"
+msgid "1024 x 1024 (the big one is because it's Apple requirement, please note that it should look fine even if resized to 256x256)"
+msgstr "1024 × 1024 (يكون الحجم الكبير هو من متطلبات آبل ، يرجى ملاحظة أنه يجب أن تبدو جيدة حتى إذا تم تغيير حجمها إلى 256 × 256)"
+
+msgctxt "Languages::mobile_app.m_app_splash_portrait"
+msgid "Splash Screen (portrait)"
+msgstr "شاشة البداية (عمودي)"
+
+msgctxt "Languages::tt_mobile_app.m_app_splash_portrait"
+msgid "Recommended image size 1536x2208. It is displayed when you start the application on your mobile phone"
+msgstr "حجم الصورة الموصى به 1536x2208. يتم عرضه عند بدء تشغيل التطبيق على هاتفك المحمول"
+
+msgctxt "Languages::mobile_app.m_app_splash_landscape"
+msgid "Splash Screen (landscape)"
+msgstr "شاشة البداية (أفقي)"
+
+msgctxt "Languages::tt_mobile_app.m_app_splash_landscape"
+msgid "Recommended image size 2208x1536. It is displayed when you start the application on your mobile phone"
+msgstr "حجم الصورة الموصى به 2208x1536. يتم عرضه عند بدء تشغيل التطبيق على هاتفك المحمول"
+
+msgctxt "Languages::mobile_app.m_app_store_logo"
+msgid "Feature Graphic image"
+msgstr ""
+
+msgctxt "Languages::tt_mobile_app.m_app_store_logo"
+msgid "(1024 x 500). It's the image shown in the Google Play page of your application, see \"Feature Graphic\" section <a href=\"https://support.google.com/googleplay/android-developer/answer/1078870?hl=en\" target=\"_blank\">here</a>"
+msgstr "(1024 × 500). إنها الصورة التي نظهر في صفحة Google Play من التطبيق الخاص بك ، راجع قسم \"ميزة الرسم\" <a href = \"https://support.google.com/googleplay/android-developer/answer/1078870؟hl=ar\" target = \"_blank\"> هنا </a>"
+
+msgctxt "Languages::mobile_app.download_config"
+msgid "Download config"
+msgstr ""
+
+msgctxt "Languages::mobile_app.preparing_config"
+msgid "Preparing config"
+msgstr ""
+
+msgctxt "Languages::mobile_app.preparing_android_images"
+msgid "Preparing Android images"
+msgstr "جارٍ تحضير صور Android"
+
+msgctxt "Languages::mobile_app.preparing_android_images"
+msgid "Preparing Android images"
+msgstr "جارٍ تحضير صور Android"
+
+msgctxt "Languages::mobile_app.preparing_ios_icons"
+msgid "Preparing iOS icons"
+msgstr "جارٍ تحضير رموز iOS"
+
+msgctxt "Languages::mobile_app.preparing_ios_images"
+msgid "Preparing iOS images"
+msgstr "جارٍ تحضير رموز iOS"
+
+msgctxt "Languages::mobile_app.preparing_archive"
+msgid "Preparing archive"
+msgstr "إعداد أرشيف"
+
+msgctxt "SettingsSections::mobile_app::general"
+msgid "General"
+msgstr "عام"
+
+msgctxt "SettingsSections::mobile_app::service"
+msgid "Configure"
+msgstr "إعداد"
+
+msgctxt "Languages::mobile_app.configure_colors"
+msgid "Configure Colors"
+msgstr ""
+
+msgctxt "Languages::mobile_app.fcm_api_key"
+msgid "API key for push notifications"
+msgstr "مفتاح API لإشعارات الدفع"
+
+msgctxt "Languages::mobile_app.fcm_api_key_tooltip"
+msgid "Obtain the Cloud Messaging <b>Legacy server key</b> from the <a href=\"https://console.firebase.google.com\" target=\"_blank\">Firebase console</a> using your bundle ID: [bundle_id]"
+msgstr ""
+
+msgctxt "Languages::mobile_app.services_config"
+msgid "Firebase config file (Android)"
+msgstr ""
+
+msgctxt "Languages::tt_mobile_app.services_config"
+msgid "Upload the google-services.json file that was generated when you added an Android application in Firebase."
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_registration"
+msgid "Registration"
+msgstr "التسجيل"
+
+msgctxt "Languages::mobile_app.mobile_registration_complete"
+msgid "Registration complete."
+msgstr "التسجيل الكامل."
+
+msgctxt "Languages::mobile_app.mobile_success"
+msgid "Success"
+msgstr "نجاح"
+
+msgctxt "Languages::mobile_app.mobile_product_added_to_cart"
+msgid "The product was added to your cart."
+msgstr "تمت إضافة المنتج إلى سلة التسوق الخاصة بك."
+
+msgctxt "Languages::mobile_app.mobile_notice"
+msgid "Notice"
+msgstr "إشعار"
+
+msgctxt "Languages::mobile_app.mobile_text_cart_zero_inventory"
+msgid "Product has zero inventory and cannot be added to the cart."
+msgstr "غير متوفر حالياً بالمخزون ولا يمكن اضافته إلى سلّة مشترياتكم."
+
+msgctxt "Languages::mobile_app.mobile_error"
+msgid "Error"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_error_try_later"
+msgid "Something went wrong. Please try again later."
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_text_thank_you_for_post"
+msgid "Thank you for your post."
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_text_post_pended"
+msgid "Your post will be checked before it gets published."
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_product_added_to_wl"
+msgid "The product was added to your Wish list."
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_product_in_wishlist"
+msgid "This product is already in the wish list."
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_total"
+msgid "Total"
+msgstr "المجموع"
+
+msgctxt "Languages::mobile_app.mobile_categories"
+msgid "Categories"
+msgstr "فئات"
+
+msgctxt "Languages::mobile_app.mobile_authentication"
+msgid "Authentication"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_delivery"
+msgid "Delivery"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_shipping"
+msgid "Shipping"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_payment_method"
+msgid "Payment method"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_no_posts_found"
+msgid "No posts found"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_list_is_empty"
+msgid "List is empty."
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_customer_signature"
+msgid "Customer's signature"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_checking_account_number"
+msgid "Checking account number"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_bank_routing_number"
+msgid "Bank routing number"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_comment"
+msgid "Comment"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_card_number"
+msgid "Card Number"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_valid_thru_mm"
+msgid "Valid thru (mm)"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_valid_thru_yy"
+msgid "Valid thru (yy)"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_cardholder_name"
+msgid "Cardholder's name"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_cvv2"
+msgid "CVV/CVC"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_phone"
+msgid "Phone"
+msgstr "الهاتف"
+
+msgctxt "Languages::mobile_app.mobile_save"
+msgid "Save"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_number_of_reviews"
+msgid "%1 reviews"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_number_products_found"
+msgid "Products found: %1"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_view_details"
+msgid "View Detail"
+msgstr "عرض التفاصيل"
+
+msgctxt "Languages::mobile_app.mobile_cart"
+msgid "Cart"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_confirm_clear_the_cart"
+msgid "Clear all cart ?"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_cancel"
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgctxt "Languages::mobile_app.mobile_ok"
+msgid "Ok"
+msgstr "موافق"
+
+msgctxt "Languages::mobile_app.mobile_delete"
+msgid "Delete"
+msgstr "حذف"
+
+msgctxt "Languages::mobile_app.mobile_checkout"
+msgid "Checkout"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_text_cart_empty"
+msgid "Your shopping cart is empty."
+msgstr "عربة التسوق الخاصة بك فارغة."
+
+msgctxt "Languages::mobile_app.mobile_looking_for_ideas"
+msgid "Looking for ideas?"
+msgstr "هل تبحث عن أفكار؟"
+
+msgctxt "Languages::mobile_app.mobile_search"
+msgid "Search"
+msgstr "بحث"
+
+msgctxt "Languages::mobile_app.mobile_vendor_products"
+msgid "Vendor products"
+msgstr "منتجات البائعين"
+
+msgctxt "Languages::mobile_app.mobile_products"
+msgid "Products"
+msgstr "المنتجات"
+
+msgctxt "Languages::mobile_app.mobile_login"
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+msgctxt "Languages::mobile_app.mobile_wrong_password"
+msgid "Wrong password."
+msgstr "كلمة مرور خاطئة."
+
+msgctxt "Languages::mobile_app.mobile_auth"
+msgid "Auth"
+msgstr "المصادقة"
+
+msgctxt "Languages::mobile_app.mobile_sign_in"
+msgid "Sign in"
+msgstr "تسجيل الدخول"
+
+msgctxt "Languages::mobile_app.mobile_sign_in_as_different"
+msgid "Sign in as a different user"
+msgstr "تسجيل الدخول بعضوية أخرى"
+
+msgctxt "Languages::mobile_app.mobile_checkout_complete"
+msgid "Checkout complete"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_congratulations"
+msgid "Congratulations!"
+msgstr "تهانينا!"
+
+msgctxt "Languages::mobile_app.mobile_text_order_placed_successfully"
+msgid "Your order has been successfully placed."
+msgstr "تهانينا! تم إضافة طلب الشراء بنجاح."
+
+msgctxt "Languages::mobile_app.mobile_order_lowercase"
+msgid "order"
+msgstr "الطلب"
+
+msgctxt "Languages::mobile_app.mobile_products_information"
+msgid "Products information"
+msgstr "معلومات المنتجات"
+
+msgctxt "Languages::mobile_app.mobile_billing_address"
+msgid "Billing address"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_show_all"
+msgid "Show all"
+msgstr "إظهار الكل"
+
+msgctxt "Languages::mobile_app.mobile_firstname_colon"
+msgid "First name:"
+msgstr "الاسم الأول:"
+
+msgctxt "Languages::mobile_app.mobile_lastname_colon"
+msgid "Last name:"
+msgstr "الكنية:"
+
+msgctxt "Languages::mobile_app.mobile_email_colon"
+msgid "E-mail:"
+msgstr "البريد الإلكتروني:"
+
+msgctxt "Languages::mobile_app.mobile_phone_colon"
+msgid "Phone:"
+msgstr "الهاتف:"
+
+msgctxt "Languages::mobile_app.mobile_address_colon"
+msgid "Address:"
+msgstr "العنوان:"
+
+msgctxt "Languages::mobile_app.mobile_city_colon"
+msgid "City:"
+msgstr "المدينة:"
+
+msgctxt "Languages::mobile_app.mobile_country_colon"
+msgid "Country:"
+msgstr "الدولة:"
+
+msgctxt "Languages::mobile_app.mobile_state_colon"
+msgid "State:"
+msgstr "المحافظة/الإمارة:"
+
+msgctxt "Languages::mobile_app.mobile_shipping_address"
+msgid "Shipping address"
+msgstr "عنوان الشحن"
+
+msgctxt "Languages::mobile_app.mobile_change_address"
+msgid "Change address"
+msgstr "تغيير العنوان"
+
+msgctxt "Languages::mobile_app.mobile_next"
+msgid "Next"
+msgstr "التالي"
+
+msgctxt "Languages::mobile_app.mobile_place_order"
+msgid "Place order"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_comments_and_reviews"
+msgid "Comments & Reviews"
+msgstr "التعليقات و الاراء"
+
+msgctxt "Languages::mobile_app.mobile_vertical_delimiter"
+msgid "|"
+msgstr "|"
+
+msgctxt "Languages::mobile_app.mobile_home"
+msgid "Home"
+msgstr "الرئيسية"
+
+msgctxt "Languages::mobile_app.mobile_wishlist"
+msgid "Wish List"
+msgstr "قائمة الأمنيات"
+
+msgctxt "Languages::mobile_app.mobile_my_profile"
+msgid "My Profile"
+msgstr "ملف التعريف الخاص بي"
+
+msgctxt "Languages::mobile_app.mobile_orders"
+msgid "Orders"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_companies"
+msgid "Vendors"
+msgstr "البائعين"
+
+msgctxt "Languages::mobile_app.mobile_order_details"
+msgid "Order Detail"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_order"
+msgid "Order"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_placed_on"
+msgid "Placed on"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_summary"
+msgid "Summary"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_payment_method_colon"
+msgid "Payment method:"
+msgstr "طرق الدفع:"
+
+msgctxt "Languages::mobile_app.mobile_shipping_method_colon"
+msgid "Shipping method:"
+msgstr "طرق الشحن:"
+
+msgctxt "Languages::mobile_app.mobile_subtotal_colon"
+msgid "Subtotal:"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_shipping_cost_colon"
+msgid "Shipping cost:"
+msgstr "تكلفة الشحن:"
+
+msgctxt "Languages::mobile_app.mobile_total_colon"
+msgid "Total:"
+msgstr "المجموع:"
+
+msgctxt "Languages::mobile_app.mobile_discussion_title_product"
+msgid "Reviews"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_reviews_number"
+msgid "Reviews (%1)"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_write_review"
+msgid "Write a Review"
+msgstr "اكتب تقييم"
+
+msgctxt "Languages::mobile_app.mobile_view_all"
+msgid "View All"
+msgstr "عرض الكل"
+
+msgctxt "Languages::mobile_app.mobile_features"
+msgid "Feautures"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_there_are_no_features"
+msgid "There are no feautures."
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_vendor_info"
+msgid "Vendor info"
+msgstr "معلومات البائع"
+
+msgctxt "Languages::mobile_app.mobile_items"
+msgid "%1 item(s)"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_vendor_info"
+msgid "Vendor Info"
+msgstr "معلومات البائع"
+
+msgctxt "Languages::mobile_app.mobile_go_to_store"
+msgid "Go To Store"
+msgstr "الذهاب الى المتجر"
+
+msgctxt "Languages::mobile_app.mobile_share_product"
+msgid "Share product"
+msgstr "مشاركة المنتجات"
+
+msgctxt "Languages::mobile_app.mobile_add_to_cart"
+msgid "Add to cart"
+msgstr "أضف إلى السلة"
+
+msgctxt "Languages::mobile_app.mobile_profile"
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+msgctxt "Languages::mobile_app.mobile_information"
+msgid "Information"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_text_profile_is_updated"
+msgid "The profile data has been updated successfully."
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_list_is_empty"
+msgid "List is empty"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_vendor_details"
+msgid "Vendor Detail"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_contact_information"
+msgid "Contact Information"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_email"
+msgid "E-mail"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_fax"
+msgid "Fax"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_website"
+msgid "Website"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_confirm_clear_wishlist"
+msgid "Clear wish list?"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_empty_wish_list_message"
+msgid "Your Wish Lists will love here."
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_rating_is_mandatory"
+msgid "The rating field is mandatory."
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_your_name"
+msgid "Your name"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_your_message"
+msgid "Your message"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_send_review"
+msgid "Send review"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_cannot_handle_url"
+msgid "Can't handle url"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_vendor"
+msgid "Vendor"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_details"
+msgid "Details"
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_no_products_in_this_section"
+msgid "There are no products in this section"
+msgstr ""
+
+msgctxt "Languages::mobile_app.crop_when_resize"
+msgid "Crop image"
+msgstr ""
+
+msgctxt "Languages::tt_mobile_app.crop_when_resize"
+msgid "If ticked, some part of an image might be lost (cut out) when it's resized, otherwise transparent borders might be added."
+msgstr ""
+
+msgctxt "Languages::mobile_app.apple_pay"
+msgid "Apple Pay"
+msgstr ""
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_identifier"
+msgid "Merchant identifier"
+msgstr ""
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_identifier_tooltip"
+msgid "Obtain the <b>Merchant Identifier</b> as described in <a href=\"https://help.apple.com/developer-account/#/devb2e62b839?sub=dev103e030bb\" target=\"_blank\">Developer Account Help</a>"
+msgstr ""
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_name"
+msgid "Merchant name"
+msgstr ""
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_name_tooltip"
+msgid "Enter the Merchant ID Description that you used when registering your Merchant ID at the Apple Developer website."
+msgstr ""
+
+msgctxt "Languages::mobile_app.apple_pay_supported_networks"
+msgid "Payment networks"
+msgstr ""
+

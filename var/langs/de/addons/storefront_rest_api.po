@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /release-4.10.4/addons/storefront_rest_api.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-09-05 09:36\n"
+
+msgctxt "Addons::name::storefront_rest_api"
+msgid "Storefront REST API"
+msgstr "Schaufenster REST API"
+
+msgctxt "Addons::description::storefront_rest_api"
+msgid "Provides REST API entities"
+msgstr "Liefert REST-API-Entitäten"
+
+msgctxt "SettingsSections::storefront_rest_api::general"
+msgid "General"
+msgstr "Allgemein"
+
+msgctxt "SettingsOptions::storefront_rest_api::access_key"
+msgid "Access key"
+msgstr "Zugangsschlüssel"
+

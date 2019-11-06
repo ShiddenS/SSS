@@ -1,0 +1,21 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::product_option_combinations"
+msgid "Product option combinations [Deprecated]"
+msgstr "Product option combinations [Deprecated]"
+
+msgctxt "Addons::description::product_option_combinations"
+msgid "Create multiple variants of the same product based on one or multiple options. Note that product variations are a better choice than option combinations in most cases. The only exception is when you have third-party add-ons that work only with option combinations."
+msgstr "Create multiple variants of the same product based on one or multiple options. Note that product variations are a better choice than option combinations in most cases. The only exception is when you have third-party add-ons that work only with option combinations."
+
+msgctxt "Languages::product_option_combinations.upgrade_notification.convert_title"
+msgid "Convert option combinations to product variations"
+msgstr "Convert option combinations to product variations"
+
+msgctxt "Languages::product_option_combinations.upgrade_notification.convert_message"
+msgid "<p>Product variations are better than option combinations because they can do much more. With product variations out of beta, option combinations are deprecated. For that reason, we added a way to quickly and automatically turn option combinations to product variations.</p><p><b>This action is required</b> if you use the <b>Common Products for Vendors</b> add-on in Multi-Vendor Plus. For technical reasons, that add-on no longer supports option combinations.</p><p><a href=\"[convert_url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Convert option combinations</a> <a href=\"https://docs.cs-cart.com/4.10.x/user_guide/manage_products/products/simple_versus_configurable.html\" target=\"_blank\" class=\"btn btn-large\">Why are variations better?</a></p>"
+msgstr "<p>Product variations are better than option combinations because they can do much more. With product variations out of beta, option combinations are deprecated. For that reason, we added a way to quickly and automatically turn option combinations to product variations.</p><p><b>This action is required</b> if you use the <b>Common Products for Vendors</b> add-on in Multi-Vendor Plus. For technical reasons, that add-on no longer supports option combinations.</p><p><a href=\"[convert_url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Convert option combinations</a> <a href=\"https://docs.cs-cart.com/4.10.x/user_guide/manage_products/products/simple_versus_configurable.html\" target=\"_blank\" class=\"btn btn-large\">Why are variations better?</a></p>"

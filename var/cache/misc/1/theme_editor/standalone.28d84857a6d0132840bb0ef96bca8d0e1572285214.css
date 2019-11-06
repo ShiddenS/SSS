@@ -1,0 +1,108 @@
+
+/* Lite Checkout */
+@supports (-webkit-appearance: none) {
+    .selector:not(*:root), .litecheckout .litecheckout__field--selectbox .litecheckout__input {
+        padding-top: 10px !important;
+        padding-left: 6px !important;
+    }
+}
+/* End of Lite Checkout */
+/**
+ * EasyZoom core styles
+ */
+.easyzoom {
+	position: relative;
+
+	/* 'Shrink-wrap' the element */
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+}
+
+.easyzoom img {
+	vertical-align: bottom;
+}
+
+.easyzoom.is-loading img {
+	cursor: progress;
+}
+
+.easyzoom.is-ready img {
+	cursor: crosshair;
+}
+
+.easyzoom.is-error  img {
+	cursor: not-allowed;
+}
+
+.easyzoom-notice {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	z-index: 150;
+	width: 10em;
+	margin: -1em 0 0 -5em;
+	line-height: 2em;
+	text-align: center;
+	background: #FFF;
+	box-shadow: 0 0 10px #888;
+}
+
+.easyzoom-flyout {
+	position:absolute;
+	z-index: 100;
+	overflow: hidden;
+	background: #FFF;
+}
+
+/**
+ * EasyZoom layout variations
+ */
+.easyzoom--overlay .easyzoom-flyout {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.easyzoom--adjacent .easyzoom-flyout {
+	top: 0;
+	left: 100%;
+	width: 100%;
+	height: 100%;
+	margin-left: 20px;
+}
+#LESS#
+@import "styles.less";
+@import "tygh/responsive.less";
+@import "addons/social_buttons/styles.less";
+@import "addons/social_buttons/responsive.less";
+@import "addons/tags/styles.less";
+@import "addons/rss_feed/styles.less";
+@import "addons/newsletters/styles.less";
+@import "addons/geo_maps/styles.less";
+@import "addons/gift_certificates/styles.less";
+@import "addons/gift_certificates/responsive.less";
+@import "addons/store_locator/styles.less";
+@import "addons/recaptcha/styles.less";
+@import "addons/product_variations/styles.less";
+@import "addons/blog/styles.less";
+@import "addons/blog/responsive.less";
+@import "addons/reward_points/styles.less";
+@import "addons/call_requests/styles.less";
+@import "addons/form_builder/styles.less";
+@import "addons/form_builder/responsive.less";
+@import "addons/banners/styles.less";
+@import "addons/discussion/styles.less";
+@import "addons/discussion/responsive.less";
+@import "addons/wishlist/styles.less";
+@import "addons/wishlist/responsive.less";
+@import "addons/image_zoom/styles.less";
+@import "addons/hybrid_auth/styles.less";
+@import "addons/rus_ruble/styles.less";
+@import "addons/first_addon/styles.less";
+@import "addons/yandex_delivery/styles.less";
+@import "addons/yandex_delivery/icons.less";
+    :root {
+        --image-zoom-animation-time: 200ms;
+    }

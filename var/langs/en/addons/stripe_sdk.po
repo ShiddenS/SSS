@@ -1,0 +1,13 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::stripe_sdk"
+msgid "Stripe SDK"
+msgstr "Stripe SDK"
+
+msgctxt "Addons::description::stripe_sdk"
+msgid "PHP SDK for Stripe-based payment methods."
+msgstr "PHP SDK for Stripe-based payment methods."

@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /release-4.10.4/addons/mobile_app.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-09-05 09:33\n"
+
+msgctxt "Addons::name::mobile_app"
+msgid "Mobile application"
+msgstr "Aplicación móvil"
+
+msgctxt "Addons::description::mobile_app"
+msgid "Mobile application"
+msgstr "Aplicación móvil"
+
+msgctxt "Languages::app_params"
+msgid "Application"
+msgstr "Aplicación"
+
+msgctxt "Languages::mobile_app.section.category"
+msgid "Categories"
+msgstr "Categorías"
+
+msgctxt "Languages::mobile_app.section.drawer"
+msgid "Drawer (sidebar menu)"
+msgstr "Caja de aplicaciones (barra de menú lateral)"
+
+msgctxt "Languages::mobile_app.section.navbar"
+msgid "Navigation bar"
+msgstr "Barra de navegación"
+
+msgctxt "Languages::mobile_app.section.product_screen"
+msgid "Product screen"
+msgstr "Pantalla del producto"
+
+msgctxt "Languages::mobile_app.section.main"
+msgid "Main screen"
+msgstr "Pantalla principal"
+
+msgctxt "Languages::mobile_app.settings.access_key"
+msgid "Access key:"
+msgstr "Clave de acceso:"
+
+msgctxt "Languages::mobile_app.appname"
+msgid "App Name"
+msgstr "Nombre de la aplicación"
+
+msgctxt "Languages::mobile_app.appshortdescription"
+msgid "Short description"
+msgstr "Descripción breve del producto"
+
+msgctxt "Languages::mobile_app.appfulldescription"
+msgid "Full description"
+msgstr "Descripción completa del producto"
+
+msgctxt "Languages::mobile_app.supportemail"
+msgid "Support email"
+msgstr "Correo electrónico de soporte técnico"
+
+msgctxt "Languages::mobile_app.privacypolicyurl"
+msgid "Privacy Policy URL"
+msgstr "Dirección electrónica de la Política de Privacidad"
+
+msgctxt "Languages::ttc_mobile_app.appname"
+msgid "Application name (up to 30 symbols)"
+msgstr "Nombre de la aplicación (acepta hasta 30 símbolos)"
+
+msgctxt "Languages::ttc_mobile_app.appshortdescription"
+msgid "Application short description (up to 80 symbols)"
+msgstr "Descripción breve de la aplicación (acepta hasta 80 símbolos)"
+
+msgctxt "Languages::ttc_mobile_app.appfulldescription"
+msgid "Application full description (up to 4000 symbols)"
+msgstr "Descripción completa de la aplicación (acepta hasta 4000 símbolos)"
+
+msgctxt "Languages::ttc_mobile_app.supportemail"
+msgid "Will be displayed in 'about app' section"
+msgstr "Se mostrará en la sección de \"acerca de la aplicación\""
+
+msgctxt "Languages::ttc_mobile_app.privacypolicyurl"
+msgid "URL of the Privacy Policy page of your store"
+msgstr "URL de la página política de privacidad de tu tienda"
+
+msgctxt "Languages::mobile_app.pushnotifications"
+msgid "Push notifications"
+msgstr "Notificaciones automáticas"
+
+msgctxt "Languages::ttc_mobile_app.pushnotifications"
+msgid "Push notifications"
+msgstr "Notificaciones automáticas"
+
+msgctxt "Languages::bundleid"
+msgid "Bundle Id"
+msgstr "Identificación del lote"
+
+msgctxt "Languages::apikey"
+msgid "API Key"
+msgstr "Clave API"
+
+msgctxt "Languages::baseurl"
+msgid "Base URL"
+msgstr "URL base"
+
+msgctxt "Languages::siteurl"
+msgid "Site URL"
+msgstr "URL del sitio"
+
+msgctxt "Languages::mobile_app.shopname"
+msgid "Shop Name"
+msgstr "Nombre de la tienda"
+
+msgctxt "Languages::ttc_mobile_app.shopname"
+msgid "Shop Name"
+msgstr "Nombre de la tienda"
+
+msgctxt "Languages::layoutid"
+msgid "Layout Id"
+msgstr "Identificación del diseño"
+
+msgctxt "Languages::images_params"
+msgid "Images"
+msgstr "Imágenes"
+
+msgctxt "Languages::mobile_app.m_app_icon"
+msgid "App Icon"
+msgstr "Icono de la aplicación"
+
+msgctxt "Languages::tt_mobile_app.m_app_icon"
+msgid "1024 x 1024 (the big one is because it's Apple requirement, please note that it should look fine even if resized to 256x256)"
+msgstr "1024 x 1024 (la imagen grande se debe a un requerimiento de Apple, por favor tenga en cuenta que la imagen debe verse de buena calidad incluso si se cambia el tamaño a 256x256)"
+
+msgctxt "Languages::mobile_app.m_app_splash_portrait"
+msgid "Splash Screen (portrait)"
+msgstr "Pantalla de inicio (retrato)"
+
+msgctxt "Languages::tt_mobile_app.m_app_splash_portrait"
+msgid "Recommended image size 1536x2208. It is displayed when you start the application on your mobile phone"
+msgstr "Tamaño de la imagen recomendado es de 1536x2208. Se muestra al iniciar la aplicación en tu teléfono móvil"
+
+msgctxt "Languages::mobile_app.m_app_splash_landscape"
+msgid "Splash Screen (landscape)"
+msgstr "Pantalla de inicio (paisaje)"
+
+msgctxt "Languages::tt_mobile_app.m_app_splash_landscape"
+msgid "Recommended image size 2208x1536. It is displayed when you start the application on your mobile phone"
+msgstr "Tamaño de imagen recomendado es de 2208 x 1536. Se muestra al iniciar la aplicación en tu teléfono móvil"
+
+msgctxt "Languages::mobile_app.m_app_store_logo"
+msgid "Feature Graphic image"
+msgstr "Imagen gráfica de la función"
+
+msgctxt "Languages::tt_mobile_app.m_app_store_logo"
+msgid "(1024 x 500). It's the image shown in the Google Play page of your application, see \"Feature Graphic\" section <a href=\"https://support.google.com/googleplay/android-developer/answer/1078870?hl=en\" target=\"_blank\">here</a>"
+msgstr "(1024x500). Es el tamaño la imagen de tu aplicación que se muestra en la página de Google Play, ver sección de la \"función gráfica\"<a href=\"https://support.google.com/googleplay/android-developer/answer/1078870?hl=en\" target=\"_blank\">aquí</a>"
+
+msgctxt "Languages::mobile_app.download_config"
+msgid "Download config"
+msgstr "Configuración para descargar la aplicación"
+
+msgctxt "Languages::mobile_app.preparing_config"
+msgid "Preparing config"
+msgstr "Preparación de la configuración"
+
+msgctxt "Languages::mobile_app.preparing_android_images"
+msgid "Preparing Android images"
+msgstr "Preparación de las imágenes de Android"
+
+msgctxt "Languages::mobile_app.preparing_android_images"
+msgid "Preparing Android images"
+msgstr "Preparación de las imágenes de Android"
+
+msgctxt "Languages::mobile_app.preparing_ios_icons"
+msgid "Preparing iOS icons"
+msgstr "Preparación de los iconos de iOS"
+
+msgctxt "Languages::mobile_app.preparing_ios_images"
+msgid "Preparing iOS images"
+msgstr "Preparación de los iconos de iOS"
+
+msgctxt "Languages::mobile_app.preparing_archive"
+msgid "Preparing archive"
+msgstr "Preparación del archivo"
+
+msgctxt "SettingsSections::mobile_app::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsSections::mobile_app::service"
+msgid "Configure"
+msgstr "Configurar"
+
+msgctxt "Languages::mobile_app.configure_colors"
+msgid "Configure Colors"
+msgstr "Configurar los colores"
+
+msgctxt "Languages::mobile_app.fcm_api_key"
+msgid "API key for push notifications"
+msgstr "Clave API para notificaciones emergentes"
+
+msgctxt "Languages::mobile_app.fcm_api_key_tooltip"
+msgid "Obtain the Cloud Messaging <b>Legacy server key</b> from the <a href=\"https://console.firebase.google.com\" target=\"_blank\">Firebase console</a> using your bundle ID: [bundle_id]"
+msgstr ""
+
+msgctxt "Languages::mobile_app.services_config"
+msgid "Firebase config file (Android)"
+msgstr ""
+
+msgctxt "Languages::tt_mobile_app.services_config"
+msgid "Upload the google-services.json file that was generated when you added an Android application in Firebase."
+msgstr ""
+
+msgctxt "Languages::mobile_app.mobile_registration"
+msgid "Registration"
+msgstr "Registro"
+
+msgctxt "Languages::mobile_app.mobile_registration_complete"
+msgid "Registration complete."
+msgstr "El registro se ha completado."
+
+msgctxt "Languages::mobile_app.mobile_success"
+msgid "Success"
+msgstr "Éxito"
+
+msgctxt "Languages::mobile_app.mobile_product_added_to_cart"
+msgid "The product was added to your cart."
+msgstr "El producto ha sido añadido a su carrito."
+
+msgctxt "Languages::mobile_app.mobile_notice"
+msgid "Notice"
+msgstr "Aviso"
+
+msgctxt "Languages::mobile_app.mobile_text_cart_zero_inventory"
+msgid "Product has zero inventory and cannot be added to the cart."
+msgstr "El producto no existe en el inventario y no puede ser agregado al carrito."
+
+msgctxt "Languages::mobile_app.mobile_error"
+msgid "Error"
+msgstr "Error"
+
+msgctxt "Languages::mobile_app.mobile_error_try_later"
+msgid "Something went wrong. Please try again later."
+msgstr "Algo salió mal. Por favor inténtalo de nuevo más tarde."
+
+msgctxt "Languages::mobile_app.mobile_text_thank_you_for_post"
+msgid "Thank you for your post."
+msgstr "Gracias por tu comentario."
+
+msgctxt "Languages::mobile_app.mobile_text_post_pended"
+msgid "Your post will be checked before it gets published."
+msgstr "Tu comentario será revisado antes de ser publicado."
+
+msgctxt "Languages::mobile_app.mobile_product_added_to_wl"
+msgid "The product was added to your Wish list."
+msgstr "El producto fue agregado a tu Lista de compras."
+
+msgctxt "Languages::mobile_app.mobile_product_in_wishlist"
+msgid "This product is already in the wish list."
+msgstr "El producto ya fue agregado a tu Lista de compras."
+
+msgctxt "Languages::mobile_app.mobile_total"
+msgid "Total"
+msgstr "Total"
+
+msgctxt "Languages::mobile_app.mobile_categories"
+msgid "Categories"
+msgstr "Categorías"
+
+msgctxt "Languages::mobile_app.mobile_authentication"
+msgid "Authentication"
+msgstr "Autenticación"
+
+msgctxt "Languages::mobile_app.mobile_delivery"
+msgid "Delivery"
+msgstr "Entrega"
+
+msgctxt "Languages::mobile_app.mobile_shipping"
+msgid "Shipping"
+msgstr "Envío"
+
+msgctxt "Languages::mobile_app.mobile_payment_method"
+msgid "Payment method"
+msgstr "Método de pago"
+
+msgctxt "Languages::mobile_app.mobile_no_posts_found"
+msgid "No posts found"
+msgstr "Ningún comentario encontrado"
+
+msgctxt "Languages::mobile_app.mobile_list_is_empty"
+msgid "List is empty."
+msgstr "La lista de compras está vacia."
+
+msgctxt "Languages::mobile_app.mobile_customer_signature"
+msgid "Customer's signature"
+msgstr "Firma del cliente"
+
+msgctxt "Languages::mobile_app.mobile_checking_account_number"
+msgid "Checking account number"
+msgstr "Comprobación del número de cuenta"
+
+msgctxt "Languages::mobile_app.mobile_bank_routing_number"
+msgid "Bank routing number"
+msgstr "Número de la ruta bancaria"
+
+msgctxt "Languages::mobile_app.mobile_comment"
+msgid "Comment"
+msgstr "Comentario"
+
+msgctxt "Languages::mobile_app.mobile_card_number"
+msgid "Card Number"
+msgstr "Número de la tarjeta"
+
+msgctxt "Languages::mobile_app.mobile_valid_thru_mm"
+msgid "Valid thru (mm)"
+msgstr "Válido hasta (mm)"
+
+msgctxt "Languages::mobile_app.mobile_valid_thru_yy"
+msgid "Valid thru (yy)"
+msgstr "Válido hasta (mm)"
+
+msgctxt "Languages::mobile_app.mobile_cardholder_name"
+msgid "Cardholder's name"
+msgstr "Nombre del titular"
+
+msgctxt "Languages::mobile_app.mobile_cvv2"
+msgid "CVV/CVC"
+msgstr "CVV/CVC"
+
+msgctxt "Languages::mobile_app.mobile_phone"
+msgid "Phone"
+msgstr "Teléfono"
+
+msgctxt "Languages::mobile_app.mobile_save"
+msgid "Save"
+msgstr "Guardar"
+
+msgctxt "Languages::mobile_app.mobile_number_of_reviews"
+msgid "%1 reviews"
+msgstr "1% de opiniones"
+
+msgctxt "Languages::mobile_app.mobile_number_products_found"
+msgid "Products found: %1"
+msgstr "Productos encontrados: 1%"
+
+msgctxt "Languages::mobile_app.mobile_view_details"
+msgid "View Detail"
+msgstr "Ver detalle"
+
+msgctxt "Languages::mobile_app.mobile_cart"
+msgid "Cart"
+msgstr "Carrito"
+
+msgctxt "Languages::mobile_app.mobile_confirm_clear_the_cart"
+msgid "Clear all cart ?"
+msgstr "¿Quieres borrar los productos del carrito?"
+
+msgctxt "Languages::mobile_app.mobile_cancel"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt "Languages::mobile_app.mobile_ok"
+msgid "Ok"
+msgstr "De acuerdo"
+
+msgctxt "Languages::mobile_app.mobile_delete"
+msgid "Delete"
+msgstr "Borrar"
+
+msgctxt "Languages::mobile_app.mobile_checkout"
+msgid "Checkout"
+msgstr "Continuar con la compra"
+
+msgctxt "Languages::mobile_app.mobile_text_cart_empty"
+msgid "Your shopping cart is empty."
+msgstr "Tu carrito de compras está vacío."
+
+msgctxt "Languages::mobile_app.mobile_looking_for_ideas"
+msgid "Looking for ideas?"
+msgstr "¿Andas en la búsqueda de nuevas ideas?"
+
+msgctxt "Languages::mobile_app.mobile_search"
+msgid "Search"
+msgstr "Buscar"
+
+msgctxt "Languages::mobile_app.mobile_vendor_products"
+msgid "Vendor products"
+msgstr "Productos del proveedor"
+
+msgctxt "Languages::mobile_app.mobile_products"
+msgid "Products"
+msgstr "Productos"
+
+msgctxt "Languages::mobile_app.mobile_login"
+msgid "Login"
+msgstr "Inicio de sesión"
+
+msgctxt "Languages::mobile_app.mobile_wrong_password"
+msgid "Wrong password."
+msgstr "Contraseña errada."
+
+msgctxt "Languages::mobile_app.mobile_auth"
+msgid "Auth"
+msgstr "Autorización"
+
+msgctxt "Languages::mobile_app.mobile_sign_in"
+msgid "Sign in"
+msgstr "Inicio de sesión"
+
+msgctxt "Languages::mobile_app.mobile_sign_in_as_different"
+msgid "Sign in as a different user"
+msgstr "Inicia sesión como un usuario diferente"
+
+msgctxt "Languages::mobile_app.mobile_checkout_complete"
+msgid "Checkout complete"
+msgstr "Su compra ha sido procesada"
+
+msgctxt "Languages::mobile_app.mobile_congratulations"
+msgid "Congratulations!"
+msgstr "¡Felicitaciones!"
+
+msgctxt "Languages::mobile_app.mobile_text_order_placed_successfully"
+msgid "Your order has been successfully placed."
+msgstr "Su pedido ha sido procesado con éxito."
+
+msgctxt "Languages::mobile_app.mobile_order_lowercase"
+msgid "order"
+msgstr "pedido"
+
+msgctxt "Languages::mobile_app.mobile_products_information"
+msgid "Products information"
+msgstr "Información del producto"
+
+msgctxt "Languages::mobile_app.mobile_billing_address"
+msgid "Billing address"
+msgstr "Dirección de envío"
+
+msgctxt "Languages::mobile_app.mobile_show_all"
+msgid "Show all"
+msgstr "Mostrar todo"
+
+msgctxt "Languages::mobile_app.mobile_firstname_colon"
+msgid "First name:"
+msgstr "Nombre:"
+
+msgctxt "Languages::mobile_app.mobile_lastname_colon"
+msgid "Last name:"
+msgstr "Apellidos:"
+
+msgctxt "Languages::mobile_app.mobile_email_colon"
+msgid "E-mail:"
+msgstr "Correo electrónico:"
+
+msgctxt "Languages::mobile_app.mobile_phone_colon"
+msgid "Phone:"
+msgstr "Teléfono:"
+
+msgctxt "Languages::mobile_app.mobile_address_colon"
+msgid "Address:"
+msgstr "Dirección:"
+
+msgctxt "Languages::mobile_app.mobile_city_colon"
+msgid "City:"
+msgstr "Ciudad:"
+
+msgctxt "Languages::mobile_app.mobile_country_colon"
+msgid "Country:"
+msgstr "País:"
+
+msgctxt "Languages::mobile_app.mobile_state_colon"
+msgid "State:"
+msgstr "Estado:"
+
+msgctxt "Languages::mobile_app.mobile_shipping_address"
+msgid "Shipping address"
+msgstr "Dirección de envío"
+
+msgctxt "Languages::mobile_app.mobile_change_address"
+msgid "Change address"
+msgstr "Cambio de dirección"
+
+msgctxt "Languages::mobile_app.mobile_next"
+msgid "Next"
+msgstr "Siguiente"
+
+msgctxt "Languages::mobile_app.mobile_place_order"
+msgid "Place order"
+msgstr "Realizar compra"
+
+msgctxt "Languages::mobile_app.mobile_comments_and_reviews"
+msgid "Comments & Reviews"
+msgstr "Comentarios y opiniones"
+
+msgctxt "Languages::mobile_app.mobile_vertical_delimiter"
+msgid "|"
+msgstr "|"
+
+msgctxt "Languages::mobile_app.mobile_home"
+msgid "Home"
+msgstr "Página de inicio"
+
+msgctxt "Languages::mobile_app.mobile_wishlist"
+msgid "Wish List"
+msgstr "Lista de compras"
+
+msgctxt "Languages::mobile_app.mobile_my_profile"
+msgid "My Profile"
+msgstr "Perfil del usuario"
+
+msgctxt "Languages::mobile_app.mobile_orders"
+msgid "Orders"
+msgstr "Pedidos"
+
+msgctxt "Languages::mobile_app.mobile_companies"
+msgid "Vendors"
+msgstr "Vendedores"
+
+msgctxt "Languages::mobile_app.mobile_order_details"
+msgid "Order Detail"
+msgstr "Detalle del pedido"
+
+msgctxt "Languages::mobile_app.mobile_order"
+msgid "Order"
+msgstr "Pedido"
+
+msgctxt "Languages::mobile_app.mobile_placed_on"
+msgid "Placed on"
+msgstr "Comprado en"
+
+msgctxt "Languages::mobile_app.mobile_summary"
+msgid "Summary"
+msgstr "Resumen"
+
+msgctxt "Languages::mobile_app.mobile_payment_method_colon"
+msgid "Payment method:"
+msgstr "Método de pago:"
+
+msgctxt "Languages::mobile_app.mobile_shipping_method_colon"
+msgid "Shipping method:"
+msgstr "Método de envío:"
+
+msgctxt "Languages::mobile_app.mobile_subtotal_colon"
+msgid "Subtotal:"
+msgstr "Subtotal:"
+
+msgctxt "Languages::mobile_app.mobile_shipping_cost_colon"
+msgid "Shipping cost:"
+msgstr "Gasto del envío:"
+
+msgctxt "Languages::mobile_app.mobile_total_colon"
+msgid "Total:"
+msgstr "Total:"
+
+msgctxt "Languages::mobile_app.mobile_discussion_title_product"
+msgid "Reviews"
+msgstr "Opiniones"
+
+msgctxt "Languages::mobile_app.mobile_reviews_number"
+msgid "Reviews (%1)"
+msgstr "Opiniones (1%)"
+
+msgctxt "Languages::mobile_app.mobile_write_review"
+msgid "Write a Review"
+msgstr "Escribe una opinión"
+
+msgctxt "Languages::mobile_app.mobile_view_all"
+msgid "View All"
+msgstr "Ver todo"
+
+msgctxt "Languages::mobile_app.mobile_features"
+msgid "Feautures"
+msgstr "Funciones"
+
+msgctxt "Languages::mobile_app.mobile_there_are_no_features"
+msgid "There are no feautures."
+msgstr "No existen funciones."
+
+msgctxt "Languages::mobile_app.mobile_vendor_info"
+msgid "Vendor info"
+msgstr "Información del vendedor"
+
+msgctxt "Languages::mobile_app.mobile_items"
+msgid "%1 item(s)"
+msgstr "1% del (de los) pedido (s)"
+
+msgctxt "Languages::mobile_app.mobile_vendor_info"
+msgid "Vendor Info"
+msgstr "Información del vendedor"
+
+msgctxt "Languages::mobile_app.mobile_go_to_store"
+msgid "Go To Store"
+msgstr "Ir a la tienda"
+
+msgctxt "Languages::mobile_app.mobile_share_product"
+msgid "Share product"
+msgstr "Compartir el producto"
+
+msgctxt "Languages::mobile_app.mobile_add_to_cart"
+msgid "Add to cart"
+msgstr "Agregar al carrito"
+
+msgctxt "Languages::mobile_app.mobile_profile"
+msgid "Profile"
+msgstr "Perfil"
+
+msgctxt "Languages::mobile_app.mobile_information"
+msgid "Information"
+msgstr "Información"
+
+msgctxt "Languages::mobile_app.mobile_text_profile_is_updated"
+msgid "The profile data has been updated successfully."
+msgstr "Los datos del perfil se han actualizado satisfactoriamente."
+
+msgctxt "Languages::mobile_app.mobile_list_is_empty"
+msgid "List is empty"
+msgstr "Las lista de compras está vacia"
+
+msgctxt "Languages::mobile_app.mobile_vendor_details"
+msgid "Vendor Detail"
+msgstr "Detalles del vendedor"
+
+msgctxt "Languages::mobile_app.mobile_contact_information"
+msgid "Contact Information"
+msgstr "Información de contacto"
+
+msgctxt "Languages::mobile_app.mobile_email"
+msgid "E-mail"
+msgstr "Correo electrónico"
+
+msgctxt "Languages::mobile_app.mobile_fax"
+msgid "Fax"
+msgstr "Número de fax"
+
+msgctxt "Languages::mobile_app.mobile_website"
+msgid "Website"
+msgstr "Sitio web"
+
+msgctxt "Languages::mobile_app.mobile_confirm_clear_wishlist"
+msgid "Clear wish list?"
+msgstr "¿Desea borrar la lista de compras?"
+
+msgctxt "Languages::mobile_app.mobile_empty_wish_list_message"
+msgid "Your Wish Lists will love here."
+msgstr "A sus listas de deseos les encantará comprar aquí."
+
+msgctxt "Languages::mobile_app.mobile_rating_is_mandatory"
+msgid "The rating field is mandatory."
+msgstr "El campo de valoración es obligatorio."
+
+msgctxt "Languages::mobile_app.mobile_your_name"
+msgid "Your name"
+msgstr "Su nombre"
+
+msgctxt "Languages::mobile_app.mobile_your_message"
+msgid "Your message"
+msgstr "Su mensaje"
+
+msgctxt "Languages::mobile_app.mobile_send_review"
+msgid "Send review"
+msgstr "Enviar su opinión"
+
+msgctxt "Languages::mobile_app.mobile_cannot_handle_url"
+msgid "Can't handle url"
+msgstr "No se puede manejar la Url"
+
+msgctxt "Languages::mobile_app.mobile_vendor"
+msgid "Vendor"
+msgstr "Proveedor"
+
+msgctxt "Languages::mobile_app.mobile_details"
+msgid "Details"
+msgstr "Detalles"
+
+msgctxt "Languages::mobile_app.mobile_no_products_in_this_section"
+msgid "There are no products in this section"
+msgstr "No existen productos en está sección"
+
+msgctxt "Languages::mobile_app.crop_when_resize"
+msgid "Crop image"
+msgstr "Delimitar imagen"
+
+msgctxt "Languages::tt_mobile_app.crop_when_resize"
+msgid "If ticked, some part of an image might be lost (cut out) when it's resized, otherwise transparent borders might be added."
+msgstr "Si está marcada, alguna parte de una imagen podría perderse (recortarse) cuando se cambia el tamaño, de lo contrario se podrían agregar bordes transparentes."
+
+msgctxt "Languages::mobile_app.apple_pay"
+msgid "Apple Pay"
+msgstr ""
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_identifier"
+msgid "Merchant identifier"
+msgstr ""
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_identifier_tooltip"
+msgid "Obtain the <b>Merchant Identifier</b> as described in <a href=\"https://help.apple.com/developer-account/#/devb2e62b839?sub=dev103e030bb\" target=\"_blank\">Developer Account Help</a>"
+msgstr ""
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_name"
+msgid "Merchant name"
+msgstr ""
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_name_tooltip"
+msgid "Enter the Merchant ID Description that you used when registering your Merchant ID at the Apple Developer website."
+msgstr ""
+
+msgctxt "Languages::mobile_app.apple_pay_supported_networks"
+msgid "Payment networks"
+msgstr ""
+

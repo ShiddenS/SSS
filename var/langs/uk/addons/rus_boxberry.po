@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.10.4/addons/rus_boxberry.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-09-09 07:11\n"
+
+msgctxt "Addons::name::rus_boxberry"
+msgid "Boxberry"
+msgstr "Boxberry"
+
+msgctxt "Addons::description::rus_boxberry"
+msgid "Shipping method Boxberry"
+msgstr "Спосіб доставки Boxberry"
+
+msgctxt "Languages::rus_boxberry.api_password"
+msgid "API token"
+msgstr "API token"
+
+msgctxt "Languages::rus_boxberry.take_api_password"
+msgid "Boxberry get api key"
+msgstr "Отримати api token"
+
+msgctxt "Languages::rus_boxberry.target_start"
+msgid "Boxberry start target code"
+msgstr "Код пункту отримання відправлень"
+
+msgctxt "Languages::carrier_rus_boxberry"
+msgid "Boxberry"
+msgstr "Boxberry"
+
+msgctxt "Languages::rus_boxberry.default_weight"
+msgid "Default weight (in grams)"
+msgstr "Вага за замовчуванням (в грамах)"
+
+msgctxt "Languages::rus_boxberry.pickup_point"
+msgid "Pick-up point"
+msgstr "Точка видачі"
+
+msgctxt "Languages::rus_boxberry.select_pickup_point"
+msgid "Select pick-up point"
+msgstr "Вибір точки видачі"
+
+msgctxt "Languages::rus_boxberry.unknown_error"
+msgid "Unknown error"
+msgstr "Невідома помилка"
+
+msgctxt "Languages::rus_boxberry.connection_error"
+msgid "Boxberry server didn't respond"
+msgstr "Boxberry сервер не відповідає"
+
+msgctxt "Languages::rus_boxberry.enter_api_token"
+msgid "Please specify the API token in the shipping method settings."
+msgstr "Будь ласка, вкажіть токен API в настройках способу доставки."
+
+msgctxt "Languages::rus_boxberry.not_all_fields_are_filled"
+msgid "Not all of the parameters required by the Boxberry API have been specified."
+msgstr "Не всі параметри, необхідний для Boxberry API було вказано."
+
+msgctxt "Languages::rus_boxberry.pickuppoint"
+msgid "Pickup point"
+msgstr "Точка видачі"
+
+msgctxt "Languages::rus_boxberry.status"
+msgid "Boxberry status"
+msgstr "Статус в Boxberry"
+
+msgctxt "Languages::rus_boxberry.print_label"
+msgid "Print label"
+msgstr "Друк етикетки"
+
+msgctxt "Languages::rus_boxberry.without_status"
+msgid "Without status"
+msgstr "Без статусу"
+
+msgctxt "Languages::rus_boxberry.boxberry_self"
+msgid "Delivery to a pickup point"
+msgstr "Доставка до точки видачі"
+
+msgctxt "Languages::rus_boxberry.boxberry_self_prepaid"
+msgid "Delivery to a pickup point (without cash on delivery)"
+msgstr "Доставка до точки видачі (без накладеного платежу)"
+
+msgctxt "Languages::rus_boxberry.boxberry_courier"
+msgid "Delivery by courier"
+msgstr "Кур'єрська доставка"
+
+msgctxt "Languages::rus_boxberry.boxberry_courier_prepaid"
+msgid "Delivery by courier (without cash on delivery)"
+msgstr "Кур'єрська доставка (без накладеного платежу)"
+
+msgctxt "Languages::rus_boxberry.addon_was_renamed.title"
+msgid "Boxberry: Add-on directory renamed to prevent confusion"
+msgstr "Boxberry: Теку з модулем перейменовано з метою запобігання плутанині"
+
+msgctxt "Languages::rus_boxberry.addon_was_renamed.message"
+msgid "<p>Boxberry provides its own add-on for integration with [product]. The folder of that add-on is called <b>boxberry</b>. An add-on with the same folder name existed in [product] by default, and it led to conflicts. For that reason, we have renamed the folder of our add-on to <b>rus_boxberry</b>. All Boxberry shipping methods in your store now use our add-on.</p><p>If you have an add-on by Boxberry, you’ll find disabled it on the <b>Add-ons → Manage add-ons</b> page. It has <i>Boxberry</i> listed as the developer under the description.</p><p><a href=\"[boxberry_addon]\" target=\"_blank\" class=\"btn btn-large btn-primary\">View Boxberry add-ons</a></p>"
+msgstr "<p>У служби Boxberry є свій модуль для [product]. Папка цього модуля називається <b>boxberry</b>. Раніше в [product] за замовчуванням був вбудований модуль з такою ж папкою, і це призводило до конфліктів. Тому ми перейменували папку нашого модуля в <b>rus_boxberry</b>. Всі способи доставки Boxberry в вашому магазині тепер використовують наш модуль.</p><p>Якщо у вас є модуль від Boxberry, то він вимкнений, і ви знайдете його на сторінці <b>Модулі → Управління модулями</b>. Під описом модуля вказано розробника, і у цього модуля розробник <i>Boxberry</i>.</p><p><a href=\"[boxberry_addon]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Переглянути модулі Boxberry</a></p>"
+

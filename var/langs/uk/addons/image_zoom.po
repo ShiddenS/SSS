@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.10.4/addons/image_zoom.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-09-09 07:11\n"
+
+msgctxt "Addons::name::image_zoom"
+msgid "Image zoom"
+msgstr "Масштаб зображення"
+
+msgctxt "Addons::description::image_zoom"
+msgid "Shows zoomed image on product image hover"
+msgstr "Показ збільшеного зображення при наведені курсору"
+
+msgctxt "SettingsSections::image_zoom::general"
+msgid "General"
+msgstr "Загальні"
+
+msgctxt "SettingsOptions::image_zoom::cz_animation_time"
+msgid "Animation time"
+msgstr "Час анімації"
+
+msgctxt "SettingsOptions::image_zoom::cz_zoom_position"
+msgid "Zoom position"
+msgstr "Положення Зуму"
+
+msgctxt "SettingsTooltips::image_zoom::cz_animation_time"
+msgid "Duration of the animation effects in milliseconds."
+msgstr "Тривалість анімаційних ефектів в мілісекундах."
+
+msgctxt "SettingsTooltips::image_zoom::cz_zoom_position"
+msgid "Specifies position of zoom window. The position is relative to image as shown by the following key (blue squares represent zoom window). <br /><br /><img src=\"design/backend/media/images/addons/image_zoom/zoom-positions.png\" />"
+msgstr "Задає позицію вікна зі збільшеним зображенням щодо основного зображення. На підказці нижче (сині квадрати) показано позицію. <br /><br /><img src=\"design/backend/media/images/addons/image_zoom/zoom-positions.png\" />"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::0"
+msgid "Zoom position №0"
+msgstr "Положення №0"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::1"
+msgid "Zoom position №1"
+msgstr "Положення № 1"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::2"
+msgid "Zoom position №2"
+msgstr "Положення № 2"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::3"
+msgid "Zoom position №3"
+msgstr "Положення № 3"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::4"
+msgid "Zoom position №4"
+msgstr "Положення № 4"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::5"
+msgid "Zoom position №5"
+msgstr "Положення № 5"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::6"
+msgid "Zoom position №6"
+msgstr "Положення № 6"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::7"
+msgid "Zoom position №7"
+msgstr "Положення № 7"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::8"
+msgid "Zoom position №8"
+msgstr "Положення № 8"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::9"
+msgid "Zoom position №9"
+msgstr "Положення № 9"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::10"
+msgid "Zoom position №10"
+msgstr "Положення № 10"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::11"
+msgid "Zoom position №11"
+msgstr "Положення № 11"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::12"
+msgid "Zoom position №12"
+msgstr "Положення № 12"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::13"
+msgid "Zoom position №13"
+msgstr "Положення № 13"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::14"
+msgid "Zoom position №14"
+msgstr "Положення № 14"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::15"
+msgid "Zoom position №15"
+msgstr "Положення № 15"
+
+msgctxt "Languages::image_zoom.rework_update_notification.title"
+msgid "Image Zoom add-on reworked"
+msgstr "Перероблено модуль \"Збільшені зображення товарів\""
+
+msgctxt "Languages::image_zoom.rework_update_notification.message"
+msgid "<p>We reworked the <b>Image zoom</b> add-on, because it used a third-party solution incompatible with modern versions of jQuery. As a result of the rework, some settings of the add-on were removed.</p><p>Please check how the image zoom looks on the product pages now. If you'd like to make any changes to the looks, adjust the settings of the <b>Image zoom</b> add-on.</p><p><a href=\"[image_zoom_settings]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Check Image Zoom settings</a></p>"
+msgstr "<p>Ми переробили модуль <b>Збільшені зображення товарів</b>, так як він залежав від стороннього рішення, несумісного з останніми версіями jQuery. Через це довелося видалити кілька налаштувань модуля.</p><p>Перевірте, як на сторінці товару виглядає і працює збільшення зображення при наведенні. Поміняти зовнішній вигляд можна в налаштуваннях модуля <b>Збільшені зображення товарів</b>.</p><p><a href=\"[image_zoom_settings]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Перевірити настройки модуля</a></p>"
+

@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /release-4.10.4/addons/help_tutorial.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-09-05 09:39\n"
+
+msgctxt "Addons::name::help_tutorial"
+msgid "Video tutorials"
+msgstr "ビデオチュートリアル（英語）"
+
+msgctxt "Addons::description::help_tutorial"
+msgid "Enables on-site video tutorials in the admin panel"
+msgstr "管理画面内においてビデオチュートリアルを再生可能にします（英語のみ）"
+
+msgctxt "Languages::help_tutorial.need_help"
+msgid "Need help?"
+msgstr "チュートリアルを視聴"
+
+msgctxt "Languages::help_tutorial.videos_show"
+msgid "See all the tutorials on CS-Cart"
+msgstr "CS-Cartの全てのチュートリアルを見る"
+
+msgctxt "Languages::help_tutorial.need_help_button"
+msgid "See how it works"
+msgstr "それがどのように動作するかを見る"
+

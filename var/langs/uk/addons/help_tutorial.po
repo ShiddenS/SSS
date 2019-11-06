@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.10.4/addons/help_tutorial.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-09-09 07:11\n"
+
+msgctxt "Addons::name::help_tutorial"
+msgid "Video tutorials"
+msgstr "Відео уроки"
+
+msgctxt "Addons::description::help_tutorial"
+msgid "Enables on-site video tutorials in the admin panel"
+msgstr "Відео-уроки в адмін-панелі"
+
+msgctxt "Languages::help_tutorial.need_help"
+msgid "Need help?"
+msgstr "Потрібна допомога?"
+
+msgctxt "Languages::help_tutorial.videos_show"
+msgid "See all the tutorials on CS-Cart"
+msgstr "Дивитись всі відеоуроки по CS-Cart"
+
+msgctxt "Languages::help_tutorial.need_help_button"
+msgid "See how it works"
+msgstr "Подивитись, як це працює"
+

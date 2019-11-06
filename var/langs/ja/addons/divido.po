@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /release-4.10.4/addons/divido.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-09-05 09:39\n"
+
+msgctxt "Addons::name::divido"
+msgid "Divido payments"
+msgstr "Divido 支払い"
+
+msgctxt "Addons::description::divido"
+msgid "Lets customers spread the cost of any purchase over a period of time while the merchant gets paid in full right away."
+msgstr "顧客は一定の期間支払いをする事で購入負担を減らせる一方で、店舗側には全額の支払いが行われます。"
+
+msgctxt "Languages::addons.divido.select_currency_undefined"
+msgid "The [currency] currency is not set up in store"
+msgstr "[currency] 通貨がストアに設定されていません。"
+
+msgctxt "Languages::addons.divido.order_status"
+msgid "Divido status"
+msgstr "Divido ステータス"
+
+msgctxt "Languages::addons.divido"
+msgid "Divido"
+msgstr "Divido"
+
+msgctxt "Languages::addons.divido.pay_in_instalments"
+msgid "Pay in instalments"
+msgstr "分割払いで支払い"
+
+msgctxt "Languages::addons.divido.choose_your_plan"
+msgid "Choose your plan"
+msgstr "分割プランを選ぶ"
+
+msgctxt "Languages::addons.divido.choose_your_deposit"
+msgid "Choose your deposit"
+msgstr "保証金を選ぶ"
+
+msgctxt "Languages::addons.divido.monthly_payments_of"
+msgid "monthly payments of"
+msgstr "毎月の支払い"
+
+msgctxt "Languages::addons.divido.term"
+msgid "Term"
+msgstr "用語"
+
+msgctxt "Languages::addons.divido.deposit"
+msgid "Deposit"
+msgstr "保証金"
+
+msgctxt "Languages::addons.divido.cost_of_credit"
+msgid "Cost of credit"
+msgstr "信用コスト"
+
+msgctxt "Languages::addons.divido.total_payable"
+msgid "Total payable"
+msgstr "支払合計"
+
+msgctxt "Languages::addons.divido.total_interest_apr"
+msgid "Total interest APR"
+msgstr "利息の年利率"
+
+msgctxt "Languages::addons.divido.text_redirected"
+msgid "You will be redirected to Divido to complete this finance application when you place your order"
+msgstr "注文が完了するとDivioのサイトに遷移します。"
+
+msgctxt "Languages::addons.divido.cart_amount_limit"
+msgid "Minimum order total"
+msgstr "最小注文合計"
+
+msgctxt "Languages::addons.divido.monthly_instalment"
+msgid "Monthly instalment"
+msgstr "毎月の割賦"
+
+msgctxt "Languages::ttc_addons.divido.cart_amount_limit"
+msgid "The order total has to be equal or greater than this sum, or the payment method won't be available at checkout. Leave empty if you don't want to impose this restriction."
+msgstr "注文の合計がこの金額以上でなければこの支払方法は購入に使用できません。この制限付けたくない場合は空のままにします。"
+
+msgctxt "Languages::addons.divido.show_product_page_calculator"
+msgid "Show monthly payment rate on the product page"
+msgstr "商品ページに毎月の支払い率を表示します。"
+
+msgctxt "Languages::addons.divido.product_price_limit"
+msgid "Minimum product price"
+msgstr "最小商品価格"
+
+msgctxt "Languages::ttc_addons.divido.product_price_limit"
+msgid "The product price has to be equal or greater than this sum, or the monthly payment rate won't appear on the product page. Leave empty if you don't want to impose this restriction."
+msgstr "商品の価格はこの合計額以上でなければいけません、そうでなければ月額お支払い率は商品ページに表示されません。この制限を課すことをしたくない場合には空のままにします。"
+
+msgctxt "Languages::finance_code"
+msgid "Finance code"
+msgstr "金融コード"
+
+msgctxt "Languages::addons.divido.availability_notice"
+msgid "<b>Note:</b> Payments via Divido are only available to the residents of the United Kingdom and can only be made in pounds sterling (GBP)."
+msgstr "<b>注: </b>Dividoを経由した支払いは、イギリスの居住者で英ポンド (GBP) でのみ利用可能です。"
+

@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: nl\n"
+"X-Crowdin-File: /release-4.10.4/addons/image_zoom.po\n"
+"Last-Translator: cscart\n"
+"PO-Revision-Date: 2019-09-09 07:10\n"
+
+msgctxt "Addons::name::image_zoom"
+msgid "Image zoom"
+msgstr "Afbeelding inzoomen"
+
+msgctxt "Addons::description::image_zoom"
+msgid "Shows zoomed image on product image hover"
+msgstr "Ingezoomde afbeelding weergeven als je over de product afbeelding gaat"
+
+msgctxt "SettingsSections::image_zoom::general"
+msgid "General"
+msgstr "Algemeen"
+
+msgctxt "SettingsOptions::image_zoom::cz_animation_time"
+msgid "Animation time"
+msgstr "Animatie tijd"
+
+msgctxt "SettingsOptions::image_zoom::cz_zoom_position"
+msgid "Zoom position"
+msgstr "Positie zoom"
+
+msgctxt "SettingsTooltips::image_zoom::cz_animation_time"
+msgid "Duration of the animation effects in milliseconds."
+msgstr "Duur van animatie-effecten in milliseconden."
+
+msgctxt "SettingsTooltips::image_zoom::cz_zoom_position"
+msgid "Specifies position of zoom window. The position is relative to image as shown by the following key (blue squares represent zoom window). <br /><br /><img src=\"design/backend/media/images/addons/image_zoom/zoom-positions.png\" />"
+msgstr ""
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::0"
+msgid "Zoom position №0"
+msgstr "Zoom positie Nr 0"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::1"
+msgid "Zoom position №1"
+msgstr "Zoom positie Nr 1"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::2"
+msgid "Zoom position №2"
+msgstr "Zoom positie Nr 2"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::3"
+msgid "Zoom position №3"
+msgstr "Zoom positie Nr 3"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::4"
+msgid "Zoom position №4"
+msgstr "Zoom positie Nr 4"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::5"
+msgid "Zoom position №5"
+msgstr "Zoom positie Nr 5"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::6"
+msgid "Zoom position №6"
+msgstr "Zoom positie Nr 6"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::7"
+msgid "Zoom position №7"
+msgstr "Zoom positie Nr 7"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::8"
+msgid "Zoom position №8"
+msgstr "Zoom positie Nr 8"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::9"
+msgid "Zoom position №9"
+msgstr "Zoom positie Nr 9"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::10"
+msgid "Zoom position №10"
+msgstr "Zoom positie Nr 10"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::11"
+msgid "Zoom position №11"
+msgstr "Zoom positie Nr 11"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::12"
+msgid "Zoom position №12"
+msgstr "Zoom positie Nr 12"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::13"
+msgid "Zoom position №13"
+msgstr "Zoom positie Nr 13"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::14"
+msgid "Zoom position №14"
+msgstr "Zoom positie Nr 14"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::15"
+msgid "Zoom position №15"
+msgstr "Zoom positie nr 15"
+
+msgctxt "Languages::image_zoom.rework_update_notification.title"
+msgid "Image Zoom add-on reworked"
+msgstr ""
+
+msgctxt "Languages::image_zoom.rework_update_notification.message"
+msgid "<p>We reworked the <b>Image zoom</b> add-on, because it used a third-party solution incompatible with modern versions of jQuery. As a result of the rework, some settings of the add-on were removed.</p><p>Please check how the image zoom looks on the product pages now. If you'd like to make any changes to the looks, adjust the settings of the <b>Image zoom</b> add-on.</p><p><a href=\"[image_zoom_settings]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Check Image Zoom settings</a></p>"
+msgstr ""
+
