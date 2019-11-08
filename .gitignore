@@ -1,9 +1,13 @@
-*.
+
+!/design/
+/design/*
+
+!/images/
+/images/companies/1/team/*
+!/js/
+/js/addons/*
+!/var/
+/var/themes_repository/responsive/*
 
 
-git/*
-!/app/
-
-/app/addons/first_addon/*
-
-
+git rm --cached --ignore-unmatch api.php
