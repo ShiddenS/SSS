@@ -1,3 +1,9 @@
-*
-!.gitignore
+*.
+
+
+git/*
+!/app/
+
+/app/addons/first_addon/*
+
 
